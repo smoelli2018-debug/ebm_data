@@ -1,7 +1,6 @@
 # ebm_data.py – EBM Bezeichnungen und Punktzahlen
-# Generiert: 26.04.2026 09:02
+# Generiert: 26.04.2026 09:25
 # Quelle: KBV EHD XML (https://www.kbv.de/html/online-ebm.php)
-# KV-Kennzeichnung: # KV:XX = nur für diese KV, KV:00 = bundesweit
 
 EBM_BEZEICHNUNG = {
     "00001U":"SNR für Kontrolluntersuchung, nur KÄV",  # KV:20
@@ -24,7 +23,7 @@ EBM_BEZEICHNUNG = {
     "01212N":"Notfallpauschale zwischen 19:00 und 07:00 Uhr des Folgetages",  # KV:20
     "01212V":"Notfallpauschale II",
     "01214":"Notfallkonsultationspauschale I",
-    "01214N":"Notfallkonsultationspauschale I - zur Kennzeichnung des organisierten Notfalldienstes bei eigenen Patienten ohne Anlage ",  # KV:20
+    "01214N":"Notfallkonsultationspauschale I - zur Kennzeichnung des organisierten Notfalldienstes bei eigenen Patienten ohne Anlage",  # KV:20
     "01216":"Notfallkonsultationspauschale II",
     "01216N":"Notfallkonsultationspauschale II - zur Kennzeichnung des organisierten Notfalldienstes bei eigenen Patienten ohne Anlage",  # KV:20
     "01218":"Notfallkonsultationspauschale III",
@@ -282,13 +281,13 @@ EBM_BEZEICHNUNG = {
     "01681":"Meldung von Anhaltspunkten einer Kindeswohlgefährdung",
     "01682":"Fallbesprechung Kinder- und Jugendschutz",
     "01682V":"Fallbesprechung Kinder- und Jugendschutz",
-    "01698":"Zuschlag für Leistungen nach den Gebührenordnungspositionen 01840 und 01915 für Vertragsärzte, die zur Versorgung gemäß ",
+    "01698":"Zuschlag für Leistungen nach den Gebührenordnungspositionen 01840 und 01915 für Vertragsärzte, die zur Versorgung gemäß",
     "01699":"Zuschlag zur GOP 01700",
     "01699V":"Zuschlag zur GOP 01700",
-    "01700":"Grundpauschale für Vertragsärzte, die zur Versorgung gemäß Kapitel 12 zugelassen sind, für bestimmte Auftragsleistungen ",
-    "01700V":"Grundpauschale für Vertragsärzte, die zur Versorgung gemäß Kapitel 12 zugelassen sind, für bestimmte Auftragsleistungen ",
-    "01701":"Grundpauschale für Vertragsärzte aus nicht in der Gebührenordnungsposition 01700 aufgeführten Arztgruppen für bestimmte ",
-    "01701V":"Grundpauschale für Vertragsärzte aus nicht in der Gebührenordnungsposition 01700 aufgeführten Arztgruppen für bestimmte ",
+    "01700":"Grundpauschale für Vertragsärzte, die zur Versorgung gemäß Kapitel 12 zugelassen sind, für bestimmte Auftragsleistungen",
+    "01700V":"Grundpauschale für Vertragsärzte, die zur Versorgung gemäß Kapitel 12 zugelassen sind, für bestimmte Auftragsleistungen",
+    "01701":"Grundpauschale für Vertragsärzte aus nicht in der Gebührenordnungsposition 01700 aufgeführten Arztgruppen für bestimmte",
+    "01701V":"Grundpauschale für Vertragsärzte aus nicht in der Gebührenordnungsposition 01700 aufgeführten Arztgruppen für bestimmte",
     "01702":"Beratung im Rahmen des Pulsoxymetrie-Screenings gemäß Kinder-Richtlinie",
     "01703":"Pulsoxymetrie-Screening gemäß Kinder-Richtlinie",
     "01704":"Zuschlag für die Beratung im Rahmen des Neugeborenen-Hörscreenings",
@@ -533,7 +532,7 @@ EBM_BEZEICHNUNG = {
     "01840":"Chlamydia trachomatis - Nachweis im Urin gemäß Richtlinie zur Empfängnisregelung und zum Schwangerschaftsabbruch",
     "01840A":"Chlamydia trachomatis - Nachweis im Urin gemäß Richtlinie zur Empfängnisregelung und zum Schwangerschaftsabbruch",  # KV:20
     "01841":"Ausführliche humangenetische Beurteilung wegen evidentem genetischen und/oder teratogenen Risiko gemäß ESA-Richtlinie",
-    "01842":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen ",
+    "01842":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen",
     "01850":"Beratung wegen Sterilisation",
     "01850P":"Beratung wegen Sterilisation",  # KV:03
     "01851":"Untersuchung vor Sterilisation",
@@ -828,8 +827,8 @@ EBM_BEZEICHNUNG = {
     "03012D":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (40% Aufschlag)",
     "03012E":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (200% Aufschlag, 20% Abschlag, Kennz.",
     "03012F":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (100% Aufschlag, 20% Abschlag, Kennz.",
-    "03012G":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (80% Aufschlag, 20% Abschlag, Kennz. ",
-    "03012H":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (40% Aufschlag, 20% Abschlag, Kennz. ",
+    "03012G":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (80% Aufschlag, 20% Abschlag, Kennz.",
+    "03012H":"Zuschlag TSS-Terminvermittlung ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (40% Aufschlag, 20% Abschlag, Kennz.",
     "03013":"Zuschlag TSS-Terminvermittlung ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
     "03013A":"Zuschlag TSS-Terminvermittlung ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (200% Aufschlag)",
     "03013B":"Zuschlag TSS-Terminvermittlung ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (100% Aufschlag)",
@@ -1083,20 +1082,20 @@ EBM_BEZEICHNUNG = {
     "04012H":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 5. bis zum vollendeten 18. Lebensjahr (40% Au",
     "04013":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr",
     "04013A":"Zuschlag TSS-Terminvermittlung ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (200% Aufschlag)",
-    "04013B":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (100% ",
+    "04013B":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (100%",
     "04013C":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (80% A",
     "04013D":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (40% A",
     "04013E":"Zuschlag TSS-Terminvermittlung ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (200% Aufschlag, 20% Abschlag, Kennz",
-    "04013F":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (100% ",
+    "04013F":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (100%",
     "04013G":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (80% A",
     "04013H":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 19. bis zum vollendeten 54. Lebensjahr (40% A",
     "04014":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr",
     "04014A":"Zuschlag TSS-Terminvermittlung ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (200% Aufschlag)",
-    "04014B":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (100% ",
+    "04014B":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (100%",
     "04014C":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (80% A",
     "04014D":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (40% A",
     "04014E":"Zuschlag TSS-Terminvermittlung ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (200% Aufschlag, 20% Abschlag, Kennz",
-    "04014F":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (100% ",
+    "04014F":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (100%",
     "04014G":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (80% A",
     "04014H":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 55. bis zum vollendeten 75. Lebensjahr (40% A",
     "04015":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall ab Beginn des 76. Lebensjahres",
@@ -1123,7 +1122,7 @@ EBM_BEZEICHNUNG = {
     "04040H":"Zusatzpauschale zu den Gebührenordnungspositionen 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauft",
     "04040I":"Zusatzpauschale zu den Gebührenordnungspositionen 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauft",
     "04040J":"Zusatzpauschale zu den Gebührenordnungspositionen 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauft",
-    "04040K":"Vorhaltepauschale zu den GOP 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauftrags gemäß § 73 Abs. ",
+    "04040K":"Vorhaltepauschale zu den GOP 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauftrags gemäß § 73 Abs.",
     "04040L":"Zusatzpauschale zu den Gebührenordnungspositionen 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauft",
     "04040M":"Zusatzpauschale zu den Gebührenordnungspositionen 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauft",
     "04040V":"Zusatzpauschale zu den Gebührenordnungspositionen 04000 und 04030 für die Wahrnehmung des hausärztlichen Versorgungsauft",
@@ -1312,8 +1311,8 @@ EBM_BEZEICHNUNG = {
     "05211U":"Grundpauschale 6. - 59. Lebensjahr",
     "05211V":"Grundpauschale 6. - 59. Lebensjahr (50% Abschlag, 10% Aufschlag, Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlu",
     "05211W":"Grundpauschale 6. - 59. Lebensjahr",
-    "05211Y":"Grundpauschale 6. - 59. Lebensjahr (10% Aufschlag, Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlung gem. § 87b ",
-    "05211Z":"Grundpauschale 6. - 59. Lebensjahr (Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlung gem. § 87b (2) Satz 5 SGB ",
+    "05211Y":"Grundpauschale 6. - 59. Lebensjahr (10% Aufschlag, Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlung gem. § 87b",
+    "05211Z":"Grundpauschale 6. - 59. Lebensjahr (Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlung gem. § 87b (2) Satz 5 SGB",
     "05212":"Grundpauschale ab 60. Lebensjahr",
     "05212G":"Grundpauschale ab 60. Lebensjahr (50% Abschlag, Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlung gem. § 87b (2)",
     "05212H":"Grundpauschale ab 60. Lebensjahr",
@@ -1394,11 +1393,11 @@ EBM_BEZEICHNUNG = {
     "05350B":"Kap. 5.1. Nr.8 2. Spiegelstrich EBM",  # KV:02
     "05350C":"Kap. 5.1. Nr.8 3. Spiegelstrich EBM",  # KV:02
     "05350D":"Kap. 5.1. Nr.10 EBM",  # KV:02
-    "05350K":"Beobachtung und Betreuung nach einem operativen o. diagnostischen Eingriff im Anschluss an die Gebührenordnungsposition ",
+    "05350K":"Beobachtung und Betreuung nach einem operativen o. diagnostischen Eingriff im Anschluss an die Gebührenordnungsposition",
     "05350R":"Beobachtung und Betreuung",  # KV:93
     "05350S":"Beobachtung und Betreuung",  # KV:20
     "05350X":"Beobachtung und Betreuung",
-    "05350Z":"Beobachtung und Betreuung nach einem operativen o. diagnostischen Eingriff im Anschluss an die Gebührenordnungsposition ",
+    "05350Z":"Beobachtung und Betreuung nach einem operativen o. diagnostischen Eingriff im Anschluss an die Gebührenordnungsposition",
     "05360":"Periduralanästhesie im Zusammenhang mit der Erbringung einer der Gebührenordnungspositionen 08411 bis 08416",
     "05360S":"Periduralanästhesie im Zusammenhang mit der Erbringung einer der Gebührenordnungspositionen 08411 bis 08416",  # KV:20
     "05361":"Dokumentierte Überwachung im Anschluss an die Gebührenordnungsposition 05360",
@@ -1481,7 +1480,7 @@ EBM_BEZEICHNUNG = {
     "06332":"PDT",
     "06333":"Binokulare Untersuchung des Augenhintergrundes",
     "06334":"Betreuung eines Patienten nach einer IVM gemäß GOP 31371, 31373, 36371 oder 36373 am rechten Auge",
-    "06334B":"Betreuung eines Patienten nach einer IVM gemäß GOP 31371, 31373, 36371 oder 36373 am rechten Auge (Abschlag auf die GOP ",
+    "06334B":"Betreuung eines Patienten nach einer IVM gemäß GOP 31371, 31373, 36371 oder 36373 am rechten Auge (Abschlag auf die GOP",
     "06335":"Betreuung eines Patienten nach einer IVM gemäß GOP 31372, 31373, 36372 oder 36373 am linken Auge",
     "06335B":"Betreuung eines Patienten nach einer IVM gemäß GOP 31372, 31373, 36372 oder 36373 am linken Auge (Abschlag auf die GOP 0",
     "06336":"Optische Kohärenztomographie zur Diagnostik am rechten Auge",
@@ -1701,9 +1700,9 @@ EBM_BEZEICHNUNG = {
     "08575K":"Humangenetische Beratung und Begutachtung im Zusammenhang mit einer Maßnahme nach Nr. 10.5 der Richtlinien über künstlic",
     "08575R":"Humangenetische Beratung und Begutachtung im Zusammenhang mit einer Maßnahme nach Nr. 10.5 der Richtlinien über künstlic",  # KV:93
     "08575X":"Humangenetische Beratung und Begutachtung im Zusammenhang mit einer Maßnahme nach Nr. 10.5 der Richtlinien über künstlic",
-    "08576":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen ",
-    "08576R":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen ",  # KV:93
-    "08576X":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen ",
+    "08576":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen",
+    "08576R":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen",  # KV:93
+    "08576X":"Zuschlag für Gemeinkosten und die wissenschaftliche ärztliche Beurteilung und Befundung humangenetischer Untersuchungen",
     "08619":"Beratung Kryo-RL",
     "08619V":"Beratung Kryo-RL",
     "08621":"Reproduktionsmedizinische Beratung zur Kryokonservierung von Ei- oder Samenzellen oder von Hodengewebe gemäß Kryo-RL",
@@ -3096,8 +3095,8 @@ EBM_BEZEICHNUNG = {
     "14911D":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall 6. bis 21. Lebensjahr (40% Aufschlag)",
     "14911E":"Zuschlag TSS-Terminvermittlung 6. bis 21. Lebensjahr (200% Aufschlag, 20% Abschlag, Kennz. Videospr.)",
     "14911F":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall 6. bis 21. Lebensjahr (100% Aufschlag, 20% Abschlag, Kennz.",
-    "14911G":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall 6. bis 21. Lebensjahr (80% Aufschlag, 20% Abschlag, Kennz. ",
-    "14911H":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall 6. bis 21. Lebensjahr (40% Aufschlag, 20% Abschlag, Kennz. ",
+    "14911G":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall 6. bis 21. Lebensjahr (80% Aufschlag, 20% Abschlag, Kennz.",
+    "14911H":"Zuschlag TSS-Terminvermittlung oder Hausarztvermittlungsfall 6. bis 21. Lebensjahr (40% Aufschlag, 20% Abschlag, Kennz.",
     "15210":"Grundpauschale bis 5. Lebensjahr",
     "15210H":"Grundpauschale bis 5. Lebensjahr",
     "15210R":"Grundpauschale bis 5. Lebensjahr",
@@ -3422,7 +3421,7 @@ EBM_BEZEICHNUNG = {
     "19452":"Gezielte Untersuchung einer/eines krankheitsrelevanten oder krankheitsauslösenden Translokation/Fusionsgens",
     "19453":"Mutationssuche zum Nachweis oder Ausschluss einer krankheitsrelevanten oder krankheitsauslösenden somatischen genomische",
     "19453Y":"Mutationssuche zum Nachweis o. Ausschluss einer krankheitsrelevanten o. krankheitsauslösenden somatischen genomischen Mu",
-    "19456":"Nachweis oder Ausschluss einer krankheitsrelevanten oder krankheitsauslösenden genetischen Veränderung menschlicher DNA ",
+    "19456":"Nachweis oder Ausschluss einer krankheitsrelevanten oder krankheitsauslösenden genetischen Veränderung menschlicher DNA",
     "19457":"Höchstwert für die Gebührenordnungsposition 19451",
     "19458":"Höchstwert für die Gebührenordnungsposition 19452",
     "19459":"Höchstwert für die Gebührenordnungsposition 19453",
@@ -3438,7 +3437,7 @@ EBM_BEZEICHNUNG = {
     "19503":"Biomarkerbasierter Test unter Anwendung der Vorgehensweise des EndoPredict® gemäß Nr. 30 Anlage I der MVV-RL beim Mammak",
     "19504":"Biomarkerbasierter Test unter Anwendung der Vorgehensweise des MammaPrint® gemäß Nr. 30 Anlage I der MVV-RL beim Mammaka",
     "19505":"Biomarkerbasierter Test unter Anwendung der Vorgehensweise des Prosigna® gemäß Nr. 30 Anlage I der MVV-RL beim Mammakarz",
-    "19506":"Biomarkerbasierter Test unter Anwendung der Vorgehensweise des Oncotype DX Breast Recurrence Score® gemäß Nr. 30 Anlage ",
+    "19506":"Biomarkerbasierter Test unter Anwendung der Vorgehensweise des Oncotype DX Breast Recurrence Score® gemäß Nr. 30 Anlage",
     "20210":"Grundpauschale bis 5. Lebensjahr",
     "20210H":"Grundpauschale bis 5. Lebensjahr",
     "20210R":"Grundpauschale bis 5. Lebensjahr",
@@ -4276,17 +4275,17 @@ EBM_BEZEICHNUNG = {
     "30956":"Nachweis der Koagulase und/oder des Clumpingfaktors zur Erregeridentifikation nur bei positivem Nachweis gemäß GOP 30954",
     "30960":"Höchstwert für die Teilnahme an der Netzwerk- und/oder Fallkonferenz nach der Gebührenordnungsposition 30948 im Zusammen",
     "30961":"Höchstwert für die Teilnahme an der Netzwerk- und/oder Fallkonferenz nach der Gebührenordnungsposition 30948 für den vor",
-    "30980":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 1 in Absprache mit Arzt ",
-    "30980D":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 1 in Absprache mit Arzt ",
-    "30981":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 2 in Absprache mit Arzt ",
-    "30981D":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 2 in Absprache mit Arzt ",
+    "30980":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 1 in Absprache mit Arzt",
+    "30980D":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 1 in Absprache mit Arzt",
+    "30981":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 2 in Absprache mit Arzt",
+    "30981D":"Abklärung vor Durchführung eines weiterführenden geriatrischen Assessments durch Arzt gemäß Nr. 2 in Absprache mit Arzt",
     "30984":"Weiterführendes geriatrisches Assessment",
     "30985":"Zuschlag zur GOP 30984",
     "30986":"Zuschlag zur GOP 30985",
     "30988":"Zuschlag zu den GOP 03362, 16230, 16231, 21230, 21231 für die Einleitung und Koordination von Therapiemaßnahmen nach Dur",
     "30988H":"Zuschlag f. die Einleitung u. Koordination d. Therapiem. n. multiprof. geriatr. Diagnostik HZV-Pat.",  # KV:71
     "31010":"Operationsvorbereitung bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum 12. Lebensjahr",
-    "31010T":"Operationsvorbereitung bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum 12. Lebensjahr / Hernien- Vertrag ",  # KV:83
+    "31010T":"Operationsvorbereitung bei Neugeborenen, Säuglingen, Kleinkindern und Kindern bis zum 12. Lebensjahr / Hernien- Vertrag",  # KV:83
     "31011":"Operationsvorbereitung für Eingriffe bei Jugendlichen und Erwachsenen bis zum vollendeten 40. Lebensjahr",
     "31011T":"Operationsvorbereitung für Eingriffe bei Jugendlichen und Erwachsenen bis zum vollendeten 40. Lebensjahr / Hernien- Vert",  # KV:83
     "31012":"Operationsvorbereitung bei Eingriffen bei Patienten nach Vollendung des 40. Lj",
@@ -4403,7 +4402,7 @@ EBM_BEZEICHNUNG = {
     "31125":"Eingriff der Kategorie C5",
     "31126":"Eingriff der Kategorie C6",
     "31127":"Eingriff der Kategorie C7",
-    "31128":"Zuschlag zu den Gebührenordnungspositionen 31121 bis 31126 bei Simultaneingriffen sowie zu der Gebührenordnungsposition ",
+    "31128":"Zuschlag zu den Gebührenordnungspositionen 31121 bis 31126 bei Simultaneingriffen sowie zu der Gebührenordnungsposition",
     "31128Z":"Zuschlag zu den Leistungen nach Nrn. 31121 bis 31127",  # KV:03
     "31131":"Eingriff an Knochen und Gelenken der Kategorie D1",
     "31131Z":"Eingriff an Knochen und Gelenken der Kategorie D1",  # KV:03
@@ -4948,8 +4947,8 @@ EBM_BEZEICHNUNG = {
     "32004":"Kennnummer: Vor Einleitung einer Antibiotikatherapie oder bei persistierender Symptomatik vor erneuter Verordnung (Besti",
     "32005":"Kennnummer: Spezifische antivirale Therapie der chronischen viralen Hepatitiden (Bestimmung 32.1 Nr. 6 EBM)",
     "32006":"Kennnummer: Erkrankungen oder Verdacht auf Erkrankungen, mit gesetzlicher Meldepflicht oder Mukoviszidose (Bestimmung 32",
-    "32007":"Kennnummer: Leistungen der Mutterschaftsvorsorge gemäß der Mutterschafts-Richtlinie bei Vertretung, im Notfall oder bei ",
-    "32008":"Kennnummer: Anfallsleiden unter antiepileptischer Therapie oder Psychosen unter Clozapintherapie (Bestimmung 32.1 Nr. 6 ",
+    "32007":"Kennnummer: Leistungen der Mutterschaftsvorsorge gemäß der Mutterschafts-Richtlinie bei Vertretung, im Notfall oder bei",
+    "32008":"Kennnummer: Anfallsleiden unter antiepileptischer Therapie oder Psychosen unter Clozapintherapie (Bestimmung 32.1 Nr. 6",
     "32009":"Kennnummer: Allergische Erkrankungen bei Kindern bis zum vollendeten 6. Lebensjahr (Bestimmung 32.1 Nr. 6 EBM)",
     "32011":"Kennnummer: Therapie der hereditären Thrombophilie, des Antiphospholipidsyndroms oder der Hämophilie (Bestimmung 32.1 Nr",
     "32012":"Kennnummer: Erkrankungen unter antineoplastischer Therapie oder systemischer Zytostatika- Therapie und/oder Strahlenther",
@@ -5144,7 +5143,7 @@ EBM_BEZEICHNUNG = {
     "32147S":"Phencyclidin (PCP)",
     "32148":"Alkohol-Bestimmung",
     "32148S":"Alkohol-Bestimmung",
-    "32150":"Immunologischer Nachweis von Troponin I und/oder Troponin T auf einem vorgefertigten Reagenzträger bei akutem koronaren ",
+    "32150":"Immunologischer Nachweis von Troponin I und/oder Troponin T auf einem vorgefertigten Reagenzträger bei akutem koronaren",
     "32150R":"Immunolgischer Nachweis von Troponin I und/oder Troponin T auf einem vorgefertigten Reagenzträger bei akutem koronaren S",  # KV:46
     "32151":"Kulturelle bakteriologische und/oder mykologische Untersuchung",
     "32152":"Schnelltest auf A-Streptokokken-Gruppenantigen",
@@ -5735,7 +5734,7 @@ EBM_BEZEICHNUNG = {
     "32568":"Treponema pallidum-Bestätigung (Immunoblot, FTA-ABS)",
     "32568R":"IgM-FTA-ABS - Test",  # KV:46
     "32572":"Qualitativer Nachweis und/oder quantitative Bestimmung von Toxoplasma-Antikörpern der Immunglobulinklasse IgM und/oder I",
-    "32573":"Zuschlag zur GOP 32572 für die Bestimmung der Avidität von Toxoplasma-IgG-Antikörpern als Abklärungstest nach positiver ",
+    "32573":"Zuschlag zur GOP 32572 für die Bestimmung der Avidität von Toxoplasma-IgG-Antikörpern als Abklärungstest nach positiver",
     "32574":"Röteln - Antikörper - Immunoassay",
     "32574R":"Röteln - Antikörper - Immunoassay",  # KV:46
     "32575":"Nachweis von HIV-1- und HIV-2-Antikörpern und von HIV-p24-Antigen",
@@ -6333,7 +6332,7 @@ EBM_BEZEICHNUNG = {
     "34704":"F-18-Fluorodesoxyglukose-PET des Körperstammes bei Hodgkin-Lymphom, bei aggressiven Non-Hodgkin-Lymphomen und bei malign",
     "34705":"F-18-Fluorodesoxyglukose-PET/CT des Körperstammes bei Hodgkin-Lymphom, bei aggressiven Non-Hodgkin-Lymphomen und bei mal",
     "34706":"F-18-Fluorodesoxyglukose-PET von Teilen des Körperstammes bei Hodgkin-Lymphom, bei aggressiven Non-Hodgkin-Lymphomen und",
-    "34707":"F-18-Fluorodesoxyglukose-PET/CT von Teilen des Körperstammes bei Hodgkin-Lymphom, bei aggressiven Non-Hodgkin-Lymphomen ",
+    "34707":"F-18-Fluorodesoxyglukose-PET/CT von Teilen des Körperstammes bei Hodgkin-Lymphom, bei aggressiven Non-Hodgkin-Lymphomen",
     "34720":"PSMA-PET des Körperstammes zur Indikationsstellung einer Therapie mit (177Lu)Lutetiumvipivotidtetraxetan",
     "34721":"PSMA-PET/CT des Körperstammes zur Indikationsstellung einer Therapie mit (177Lu)Lutetiumvipivotidtetraxetan",
     "34800":"Beauftragung telekonsiliarische Befundbeurteilung",
@@ -7326,7 +7325,7 @@ EBM_BEZEICHNUNG = {
     "36125":"Eingriff an den Weichteilen der Kategorie C5",
     "36126":"Eingriff an den Weichteilen der Kategorie C6",
     "36127":"Eingriff an den Weichteilen der Kategorie C7",
-    "36128":"Zuschlag zu den Gebührenordnungspositionen 36121 bis 36126 bei Simultaneingriffen sowie zu der Gebührenordnungsposition ",
+    "36128":"Zuschlag zu den Gebührenordnungspositionen 36121 bis 36126 bei Simultaneingriffen sowie zu der Gebührenordnungsposition",
     "36131":"Eingriff an Knochen und Gelenken der Kategorie D1",
     "36132":"Eingriff an Knochen und Gelenken der Kategorie D2",
     "36133":"Eingriff an Knochen und Gelenken der Kategorie D3",
@@ -7625,7 +7624,7 @@ EBM_BEZEICHNUNG = {
     "37711":"Zuschlag zur Versichertenpauschale oder Grundpauschale für den die außerklinische Intensivpflege koordinierenden Vertrag",
     "37714":"Pauschale für die konsiliarische Erörterung und Beurteilung medizinischer Fragestellungen durch einen konsiliarisch täti",
     "37720":"Fallkonferenz gemäß § 12 Abs. 2 der AKI-RL",
-    "37800":"Basis-Assessment gemäß § 5 Abs. 1 Nr. 1 LongCOV-RL durch den koordinierenden Arzt gemäß erster Bestimmung zum Abschnitt ",
+    "37800":"Basis-Assessment gemäß § 5 Abs. 1 Nr. 1 LongCOV-RL durch den koordinierenden Arzt gemäß erster Bestimmung zum Abschnitt",
     "37801":"Zuschlag zur Gebührenordnungsposition 37800",
     "37802":"Zuschlag zur Versichertenpauschale oder Grundpauschale für den koordinierenden Vertragsarzt gemäß § 4 und § 5 LongCOV-RL",
     "37804":"Fallbesprechung im Zusammenhang mit der Versorgung von Patienten gemäß § 2 LongCOV-RL",
@@ -7872,7 +7871,7 @@ EBM_BEZEICHNUNG = {
     "40901":"Kostenpauschale zur Gebührenordnungsposition 02314 bei einer Wundfläche bis einschließlich 20 Quadratzentimeter",
     "40902":"Kostenpauschale zur Gebührenordnungsposition 02314 bei einer Wundfläche > 20 Quadratzentimeter",
     "40903":"Kostenpauschale zur Gebührenordnungsposition 02314 bei Nutzung einer Vakuumpumpe",
-    "40909":"Kostenpauschale für einen erforderlichen Transmitter im Zusammenhang mit der Durchführung der Leistung(en) nach der/den ",
+    "40909":"Kostenpauschale für einen erforderlichen Transmitter im Zusammenhang mit der Durchführung der Leistung(en) nach der/den",
     "40910":"Kostenpauschale für Gebührenordnungsposition(en) 13586 und/oder 13587 (Telemonitoring bei Herzinsuffizienz)",
     "50100":"Prüfung des Farbsinns",
     "50110":"Molekularbiologische Schnellresistenztestung des Mycobacterium tuberculosis-Complex",
@@ -7909,7 +7908,7 @@ EBM_BEZEICHNUNG = {
     "61016":"Kostenpauschale für den Sprechstundenbedarf im Zusammenhang mit der Durchführung der Leistungen aus Abschnitt 61.1.2.1",
     "61017":"Kostenpauschale bei Durchführung der Liposuktion beim Lipödem entsprechend der Gebührenordnungsposition 61010 für die be",
     "61018":"Pauschale für Begleitleistungen und Auftragsleistungen in Zusammenhang mit Leistungen des Abschnitts 61.1.2.1",
-    "61019":"Zuschlag zur Gebührenordnungsposition 61015 bei Fortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete 15 ",
+    "61019":"Zuschlag zur Gebührenordnungsposition 61015 bei Fortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete 15",
     "61020":"Liposuktion im Rahmen der Erprobung der Liposuktion zur Behandlung des Lipödems",
     "61021":"Zuschlag zur Gebührenordnungsposition 61020",
     "61022":"Postoperative Überwachung im Anschluss an die Erbringung der Leistung entsprechend der Gebührenordnungsposition 61020",
@@ -7917,7 +7916,7 @@ EBM_BEZEICHNUNG = {
     "61024":"Tumeszenzlokalanästhesie durch den Operateur bei einem Eingriff nach der Gebührenordnungsposition 61020",
     "61024A":"Tumeszenzlokalanästhesie durch den Operateur bei einem Eingriff nach der Gebührenordnungsposition 61020",
     "61025":"Anästhesie und/oder Narkose, im Rahmen der Durchführung von Leistungen entsprechend der Gebührenordnungsposition 61020 e",
-    "61026":"Zuschlag zur Gebührenordnungsposition 61025 bei Fortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete 15 ",
+    "61026":"Zuschlag zur Gebührenordnungsposition 61025 bei Fortsetzung einer Anästhesie und/oder Narkose für jeweils vollendete 15",
     "61027":"Kostenpauschale für den Sprechstundenbedarf im Zusammenhang mit der Durchführung der Leistungen aus Abschnitt 61.1.2.2",
     "61028":"Kostenpauschale bei Durchführung der Liposuktion beim Lipödem entsprechend der Gebührenordnungsposition 61020 für die be",
     "61029":"Pauschale für Begleitleistungen und Auftragsleistungen in Zusammenhang mit Leistungen des Abschnitts 61.1.2.2",
@@ -7938,7 +7937,7 @@ EBM_BEZEICHNUNG = {
     "61052":"Nachuntersuchung(en) im Rahmen der Erprobungs-Richtlinie MRgFUS-TUF inklusive der notwendigen bildgebenden Verfahren",
     "61060":"Pauschale für die Nachsorge von Patienten der Interventionsgruppe im Rahmen der Erp-RL-MM-pul-art-Druck-Herzinsuff in de",
     "61061":"Pauschale für die Nachsorge von Patienten der Interventionsgruppe im Rahmen der Erp-RLMM-pul-art-Druck-Herzinsuff in der",
-    "61062":"Pauschale für die Versorgung von Patienten der Kontrollgruppe im Rahmen der Erp-RLMM-pul-art-Druck-Herzinsuff in der 1. ",
+    "61062":"Pauschale für die Versorgung von Patienten der Kontrollgruppe im Rahmen der Erp-RLMM-pul-art-Druck-Herzinsuff in der 1.",
     "61063":"Nachsorgepauschale Erp-RL-MM-pul-art-Druck-Herzinsuff ab der 53. Woche nach Implantation eines PA-Drucksensors bis zur S",
     "61064":"Pauschale für Auftragsleistungen der Abschnitte 12.2 und 32.2.3 im Rahmen der Erp-RL-MM-pul-art-Druck-Herzinsuff",
     "61070":"Pauschale für die Amyloid-Positronenemissionstomographie im Rahmen der Erprobungsrichtlinie Amyloid-PET",
@@ -8071,9 +8070,9 @@ EBM_BEZEICHNUNG = {
     "81315":"Durchführung des Toxoplasmosesuchtests",
     "81316":"Durchführung Streptokokken B Test",
     "81317":"Ärztliches Gespräch im Rahmen des 2. Toxoplasmosesuchtests sowie Dokumentation und technische/administrative Leistungen",
-    "81318":"Ärztliches Beratungsgespräch im letzten Drittel der Schwangerschaft zum Geburtsmodus (Förderung der natürlichen Geburt) ",
-    "81319":"Ärztliches Beratungsgespräch im letzten Drittel der Schwangerschaft zum Geburtsmodus (Förderung der natürlichen Geburt) ",
-    "81320":"Beratungsgespräch zur Möglichkeit der Inanspruchnahme einer Früherkennungsuntersuchung U0 beim Facharzt für Kinder- und ",
+    "81318":"Ärztliches Beratungsgespräch im letzten Drittel der Schwangerschaft zum Geburtsmodus (Förderung der natürlichen Geburt)",
+    "81319":"Ärztliches Beratungsgespräch im letzten Drittel der Schwangerschaft zum Geburtsmodus (Förderung der natürlichen Geburt)",
+    "81320":"Beratungsgespräch zur Möglichkeit der Inanspruchnahme einer Früherkennungsuntersuchung U0 beim Facharzt für Kinder- und",
     "81330":"Einschreibung mittels Teilnahmeerklärung für Versicherte (Anlage 4)",
     "81331":"Fragebogenauswertung, Durchführung Beratungsgespräch sowie fakultativ körperliche Untersuchung",
     "81332":"Impfmotivation gegen sexuell übertragbare Erkrankungen (HPV und Hepatitis B) für nicht vollständig immunisierte Versiche",
@@ -8084,9 +8083,9 @@ EBM_BEZEICHNUNG = {
     "83005":"I20M - Eingriffe am Fuß ohne komplexe Eingriffe oder komplizierende Faktoren, Alter > 15 Jahre gemäß Anlage 2 Hybrid-DRG",
     "83006":"J09N - Eingriffe bei Sinus pilonidalis und perianal, Alter > 15 Jahre gemäß Anlage 2 Hybrid-DRG-V",
     "83007":"L17N - Andere Eingriffe an der Urethra außer bei Para- / Tetraplegie, kleine Eingriffe an den Harnorganen, ohne bestimmt",
-    "83008":"L20N - Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den ",
-    "83009":"L20M - Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den ",
-    "83010":"N05N - Ovariektomien und komplexe Eingriffe an den Tubae uterinae außer bei bösartiger Neubildung, ohne äußerst schwere ",
+    "83008":"L20N - Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den",
+    "83009":"L20M - Transurethrale Eingriffe außer Prostataresektion und komplexe Ureterorenoskopien oder bestimmte Eingriffe an den",
+    "83010":"N05N - Ovariektomien und komplexe Eingriffe an den Tubae uterinae außer bei bösartiger Neubildung, ohne äußerst schwere",
     "83011":"N07N - Andere Eingriffe an Uterus und Adnexen oder best. Hernien außer bei bösart. Neubildung, mit kompl. Diagn. oder be",
     "83012":"N25N - Andere Eingriffe an Uterus und Adnexen oder bestimmten Hernien außer bei bösartiger Neubildung, ohne komplexe Dia",
     "83013":"G26M - Hybrid-DRG der DRG G26A: Andere Eingriffe am Anus oder Anoproktoplastik und Rekonstruktion von Anus und Sphinkter",
@@ -8104,7 +8103,7 @@ EBM_BEZEICHNUNG = {
     "83025":"F01O - Hybrid-DRG der DRG F01F: Impl. Kardiov./Defibr. (AICD), Einkam.-Stim., ohne zus. Herz- od. Gefäßeingriff, ohne In",
     "83026":"F02M - Hybrid-DRG der DRG F02A: Aggregatwechsel eines Kardioverters / Defibrillators (AICD), Zwei- oder Dreikammer-Stimu",
     "83027":"F02N - Hybrid-DRG der DRG F02B: Aggregatwechsel eines Kardioverters / Defibrillators (AICD), Einkammer-Stimulation",
-    "83028":"F19M - Hybrid-DRG der DRG F19B: Andere transluminale Intervention an Herz, Aorta und Lungengefäßen ohne äußerst schwere ",
+    "83028":"F19M - Hybrid-DRG der DRG F19B: Andere transluminale Intervention an Herz, Aorta und Lungengefäßen ohne äußerst schwere",
     "83029":"F24M - Hybrid-DRG der DRG F24B: Perkutane Koronarangioplastie mit komplexer Diagnose und hochkomplexer Intervention oder",
     "83030":"F49M - Hybrid-DRG 1 der DRG F49D: Invas. kard. Diagnostik außer bei akutem Myokardinfarkt, ohne IntK > 196/184/368 P., A",
     "83031":"F49N - Hybrid-DRG 2 der DRG F49D: Invas. kard. Diagnostik außer bei akutem Myokardinfarkt, ohne IntK > 196/184/368 P., A",
@@ -8131,10 +8130,10 @@ EBM_BEZEICHNUNG = {
     "83052":"G23M - Hybrid-DRG der DRG G23B: Appendektomie od. andere kompl. od. laparoskop. Adhäsiolyse außer bei Peritonitis od. Ex",
     "83053":"G24M - Hybrid-DRG der DRG G24A: Eingriffe bei Hernien mit plastischer Rekonstruktion der Bauchwand oder bestimmte partie",
     "83054":"G24O - Hybrid-DRG 2 der DRG G24B: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, mit beidseitigem o",
-    "83055":"G24P - Hybrid-DRG 1 der DRG G24D: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen ",
-    "83056":"G24Q - Hybrid-DRG 2 der DRG G24D: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen ",
-    "83057":"G24R - Hybrid-DRG 3 der DRG G24D: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen ",
-    "83058":"H08M - Hybrid-DRG der DRG H08C: Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und Bauchwand, Alter ",
+    "83055":"G24P - Hybrid-DRG 1 der DRG G24D: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen",
+    "83056":"G24Q - Hybrid-DRG 2 der DRG G24D: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen",
+    "83057":"G24R - Hybrid-DRG 3 der DRG G24D: Eingriffe bei Hernien ohne plastische Rekonstruktion der Bauchwand, ohne beidseitigen",
+    "83058":"H08M - Hybrid-DRG der DRG H08C: Laparoskopische Cholezystektomie oder bestimmte Eingriffe an Leber und Bauchwand, Alter",
     "83059":"I13M - Hybrid-DRG der DRG I13E: Best. Eingr. an Extr. od. bei Endoproth. Knie m. kompl. Eingr. od. schw. Weicht.sch. od.",
     "83060":"I13N - Hybrid-DRG der DRG I13G: Best. Eingr. an den Extremitäten o. bestimmten anderen Eingriff an den Extremitäten, auß",
     "83061":"I20M - Hybrid-DRG der DRG I20D: Eingriffe am Fuß ohne bestimmte komplizierende Faktoren, mit Knochentransplantation oder",
@@ -8162,7 +8161,7 @@ EBM_BEZEICHNUNG = {
     "86501":"Für die parenterale Polychemotherapie (das verwendete Arzneimittel ist in der Abrechnung anzugeben), pro Behandlungsfall",
     "86502":"Onkologische Behandlung einer Hämoblastose gemäß § 3 Abs. 1 bis 3 der Onkologie-Vereinbarung, je Behandlungsfall",
     "86503":"Onkologische Behandlung solider Tumoren gemäß § 3 Abs. 1 bis 3 der Onkologie-Vereinbarung, je Behandlungsfall",
-    "86504":"Spezifische intrakavitäre (Intravesikal, intrapleural, intraabdominal, intrathekal) zytostatische Tumortherapie gemäß § ",
+    "86504":"Spezifische intrakavitäre (Intravesikal, intrapleural, intraabdominal, intrathekal) zytostatische Tumortherapie gemäß §",
     "86505":"Intravasale (intravenös, intraarteriell) zytostatische Chemotherapie gemäß § 3 Abs. 1 Nr. 4.1 bzw. 4.2 der Onkologie-Ver",
     "86510":"Behandlung florider Hämoblastose /Onkologie-Vereinbarung (Anlage 7 BMV-Ä)",
     "86510A":"Behandlung florider Hämoblastosen",  # KV:02
@@ -8365,10 +8364,10 @@ EBM_BEZEICHNUNG = {
     "88526":"Fotografie des vorderen und/oder hinteren Augenabschnitts",
     "88527":"Intensivierte Nachbetreuung nach allogener Transplantation hämatopoetischer Stammzellen analog der intensivierten Nachbe",
     "88528":"Schweißtest/ASV",
-    "88529A":"Schweißtest einmalig vor der Einleitung einer CFTR-Modulator-Therapie, sofern der letzte Schweißtest vor mehr als einem ",
+    "88529A":"Schweißtest einmalig vor der Einleitung einer CFTR-Modulator-Therapie, sofern der letzte Schweißtest vor mehr als einem",
     "88529B":"Schweißtest einmalig nach der Einleitung einer CFTR-Modulator-Therapie als ergänzendes Instrument zur Beurteilung der Th",
     "88600":"Befristete Abrechnung zusätzlicher Stromkosten",  # KV:17
-    "88895":"Kostenerstattung für den besonderen Aufwand gemäß § 6 Abs. 2 der Vereinbarung über besondere Maßnahmen zur Verbesserung ",
+    "88895":"Kostenerstattung für den besonderen Aufwand gemäß § 6 Abs. 2 der Vereinbarung über besondere Maßnahmen zur Verbesserung",
     "88895A":"Kostenerstattung ab d. 513.Fall Abstaffellung für den besonderen Aufwand gemäß § 6 Abs. 2 der Vereinbarung über besonder",  # KV:38
     "88999":"Kennzeichnung von Fällen, die nur Kosten enthalten",
     "89011":"Zuschlag Meningokokken B (bei Durchführung 6-fach-Impfung (89600A), Meningokokken-B-Impfung (89116A) und Pneumokokken-Im",  # KV:93
@@ -8695,7 +8694,7 @@ EBM_BEZEICHNUNG = {
     "89127G":"Schutzimpfung: Rotavirus (RV), Letzte Dosis Impfzyklus, AOK",  # KV:51
     "89127J":"Schutzimpfung: Rotavirus (RV), Erste Dosen Impfzyklus, BKK/SVLFG/Knappschaft",  # KV:51
     "89127K":"Schutzimpfung: Rotavirus (RV), Letzte Dosen Impfzyklus, BKK/SVLFG/Knappschaft",  # KV:51
-    "89128A":"Impfung gegen Herpes zoster (Standardimpfung) für Personen ab dem Alter von 60 Jahren / erste Dosen bzw. unvollständige ",
+    "89128A":"Impfung gegen Herpes zoster (Standardimpfung) für Personen ab dem Alter von 60 Jahren / erste Dosen bzw. unvollständige",
     "89128B":"Impfung gegen Herpes zoster (Standardimpfung) für Personen ab dem Alter von 60 Jahren / letzte Dosis oder abgeschlossene",
     "89128F":"Schutzimpfung:  Herpes zoster, ab 60 J., Erste Dosen Impfzyklus, AOK/Knappschaft",  # KV:51
     "89128G":"Schutzimpfung:  Herpes zoster, ab 60 J., Letzte Dosis Impfzyklus, AOK/Knappschaft",  # KV:51
@@ -8914,8 +8913,8 @@ EBM_BEZEICHNUNG = {
     "89614B":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Hepatitis A (HepA) - nach Impfung Serologische Testung na",  # KV:02
     "89615A":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Hepatitis B (HepB) - vor Impfung Serologische Testung nac",  # KV:02
     "89615B":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Hepatitis B (HepB) - nach Impfung Serologische Testung na",  # KV:02
-    "89616A":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Varizellen oder Herpes Zoster - vor Impfung Serologische ",  # KV:02
-    "89616B":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Varizellen oder Herpes Zoster -nach Impfung Serologische ",  # KV:02
+    "89616A":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Varizellen oder Herpes Zoster - vor Impfung Serologische",  # KV:02
+    "89616B":"Serologische Testung in Zusammenhang mit Schutzimpfungen gegen Varizellen oder Herpes Zoster -nach Impfung Serologische",  # KV:02
     "89620":"Auslandsreiseschutzimpfung-Cholera (Knappschaft)",  # KV:03
     "89621":"Schutzimpfung-FSME (Kanppschaft)",  # KV:03
     "89622":"Auslandsreiseschutzimpfung-Hepatitis A (Knappschaft)",  # KV:03
@@ -9236,8 +9235,8 @@ EBM_BEZEICHNUNG = {
     "90045":"Intensivierter Medikationscheck eLiSa",  # KV:51
     "90046":"DMP Diabetes Typ 2: Patienten-Schulungsmaterial zu BGAT III",  # KV:51
     "90047":"DMP Diabetes Typ 2: Patienten-Schulungsmaterial zu HyPOS",  # KV:51
-    "90048":"DMP Diabetes Typ 2: Deesakalierung der Behandlung eines Patienten mit Diabetes mellitus Typ 2 und Insulinbehandlung auf ",  # KV:51
-    "90048E":"DMP Diabetes Typ 2: Deesakalierung der Behandlung eines Patienten mit Diabetes mellitus Typ 2 und Insulinbehandlung auf ",  # KV:51
+    "90048":"DMP Diabetes Typ 2: Deesakalierung der Behandlung eines Patienten mit Diabetes mellitus Typ 2 und Insulinbehandlung auf",  # KV:51
+    "90048E":"DMP Diabetes Typ 2: Deesakalierung der Behandlung eines Patienten mit Diabetes mellitus Typ 2 und Insulinbehandlung auf",  # KV:51
     "90049":"DMP Diabetes Typ 2: Erhöhter Aufwand für die Einstellung eines Patienten auf ein AID-Insulinpumpensystem",  # KV:51
     "90049E":"DMP Diabetes Typ 2: Erhöhter Aufwand für die Einstellung eines Patienten auf ein AID-Insulinpumpensystem, Erm. Ärzte",  # KV:51
     "90050":"DMP Diabetes Typ 2: Zuschlag Motivation/ Einschreibung in das DMP-Programm",  # KV:51
@@ -9461,7 +9460,7 @@ EBM_BEZEICHNUNG = {
     "90155E":"Zuschläge EPO-Dialyse bei Einsatz von Silapo1000 I.E.",  # KV:38
     "90160":"DMP KHK: Verbrauchsmaterial/Schulungsmaterial für Hypertonieschulung/Kardio-Fit",  # KV:51
     "90169":"DMP Asthma bronchiale: Versichertenindividuelles Gespräch zu Tabakkonsum und Motivation zur Tabakentwöhnung",  # KV:51
-    "90170":"DMP Asthma bronchiale: Zuschlag für Motivation/Information/Beratung/Einschreibung des Patienten einschl. Erstellung der ",  # KV:51
+    "90170":"DMP Asthma bronchiale: Zuschlag für Motivation/Information/Beratung/Einschreibung des Patienten einschl. Erstellung der",  # KV:51
     "90171":"DMP Asthma bronchiale: Folgedokumentation",  # KV:51
     "90172":"DMP Asthma bronchiale: Erstellung eines Strukturierten Therapieplans (Ersteinschreibung)",  # KV:51
     "90173":"DMP Asthma bronchiale: Erstellung eines Strukturierten Therapieplans (Folgedokumentation)",  # KV:51
@@ -9604,7 +9603,7 @@ EBM_BEZEICHNUNG = {
     "90284":"DMP KHK - Patienten-Verbrauchsmaterial zum Behandlungs- und Schulungspro-gramm für Patienten mit Hypertonie",  # KV:20
     "90285":"DMP KHK - Das strukturierte Hypertonie Behandlungs- und Schulungsprogramm (HBSP) 4 Doppelstunden, 4 - 6 Patienten (in de",  # KV:20
     "90286":"DMP KHK - Patienten-Verbrauchsmaterial zum Behandlungs- und Schulungsprogramm für Patienten mit Hypertonie",  # KV:20
-    "90287":"DMP KHK - Schulungs- und Behandlungsprogramme für Patienten mit oraler Gerinnungshemmung (SPOG). 4 Unterrichtseinheiten ",  # KV:20
+    "90287":"DMP KHK - Schulungs- und Behandlungsprogramme für Patienten mit oraler Gerinnungshemmung (SPOG). 4 Unterrichtseinheiten",  # KV:20
     "90288":"DMP KHK - Patienten-Verbrauchsmaterial zum Schulungs- und Behandlungsprogramm für Patienten mit oraler Gerinnungshemmung",  # KV:20
     "90289":"DMP KHK - Modulare Bluthochdruck-Schulung IPM (Institut für Präventive Medizin), 4 Doppelstunden",  # KV:20
     "90290":"DMP KHK - Patienten-Verbrauchsmaterial zur Modularen Bluthochdruck-Schulung",  # KV:20
@@ -9614,7 +9613,7 @@ EBM_BEZEICHNUNG = {
     "90300":"Kennzeichnung ambulante Strahlentherapie bei stationärem Aufenthalt",  # KV:38
     "90300A":"DMP Diabetes mellitus Typ 1, Neueinstellung, ohne Schulung, einmal im Erlebensfall",  # KV:38
     "90301":"DMP Diab.Typ 2, Umstellung auf einfache Insulintherapie (BOT,TT) o. Schulung,einmal im Erlebensfall",  # KV:38
-    "90302":"DMP Diab. Typ 2, Neueinstellung von Typ 2 Diabetikern ohne Insulintherapie (orale Antidiabetische Therapie)o. Schulung, ",  # KV:38
+    "90302":"DMP Diab. Typ 2, Neueinstellung von Typ 2 Diabetikern ohne Insulintherapie (orale Antidiabetische Therapie)o. Schulung,",  # KV:38
     "90303":"DMP Diab. Typ 2- Neueinstellung einer Pumpentherapie",  # KV:38
     "90303A":"DMP Diabetes mellitus Typ 1, Neueinstellung Pumpentherapie, einmal im Erlebensfall",  # KV:38
     "90304":"DMP Diabetes mellitus , Betreuung von schwangeren Diabetikerinnen, 1 x im BHF, max. 2x Krankheitsfall",  # KV:38
@@ -9634,7 +9633,7 @@ EBM_BEZEICHNUNG = {
     "90312":"DMP Diab. Typ 2- Ersteinstellung auf ein AID-System",  # KV:38
     "90312A":"DMP Diab. Typ 1- Ersteinstellung auf ein AID-System",  # KV:38
     "90312E":"DMP Rheumatoide Arthritis Mehrfacheinschreibung Erstdokumentation - Elektronische Erstellung der Dokumentation mittels P",  # KV:20
-    "90312F":"DMP Rheumatoide Arthritis Mehrfacheinschreibung Folgedokumentation - Elektronische Erstellung der Dokumentation mittels ",  # KV:20
+    "90312F":"DMP Rheumatoide Arthritis Mehrfacheinschreibung Folgedokumentation - Elektronische Erstellung der Dokumentation mittels",  # KV:20
     "90313":"DMP Diab. Typ 2- Umstellung eines AID-System",  # KV:38
     "90313A":"DMP Diab. Typ 1- Umstellung eines AID-System",  # KV:38
     "90320":"DMP Rheumatoide Arthritis Betreuungspauschale",  # KV:20
@@ -9739,7 +9738,7 @@ EBM_BEZEICHNUNG = {
     "90401":"Sachkosten PMMA-Linse",  # KV:20
     "90401A":"Sachkosten PMMA-Linse bei Verwendung von sowohl Hyaluronsäurepräparaten und/oder Chondroitin-Sulfat als auch Balanced Sa",  # KV:46
     "90402":"Sachkosten faltbare Silikonlinse",  # KV:20
-    "90402A":"Sachkosten faltbare Silikonlinse bei Verwendung von sowohl Hyaluronsäurepräparaten und/oder Chondroitin-Sulfat als auch ",  # KV:01
+    "90402A":"Sachkosten faltbare Silikonlinse bei Verwendung von sowohl Hyaluronsäurepräparaten und/oder Chondroitin-Sulfat als auch",  # KV:01
     "90402B":"Zuschlag Konzept Kinder -MRT",  # KV:01
     "90402C":"Förderung 1. therapeutisches Gespräch/ fwL 1. 01952",  # KV:01
     "90402D":"Förderung 5. therapeutisches Gespräch/ fwL 5. 01952",  # KV:01
@@ -9896,7 +9895,7 @@ EBM_BEZEICHNUNG = {
     "90762I":"DSP-Leistung Erstkontakt Erhöhter Betreuungsaufwand überwiesener Typ 1 Diabetiker",  # KV:20
     "90762K":"DSP-Leistung Erstkontakt Erhöhter Betreuungsaufwand überwiesener Typ 1 Diabetiker",  # KV:20
     "90762L":"DSP-Leistung Erneuter Erstkontakt  Erhöhter Betreuungsaufwand Typ 1 Diabetiker // Medizinische Betreuung bei  Einstellun",  # KV:20
-    "90762M":"DSP-Leistung Erneuter Erstkontakt  Erhöhter Betreuungsaufwand Typ 1 Diabetiker // Medizinische Betreuung bei Umstellung ",  # KV:20
+    "90762M":"DSP-Leistung Erneuter Erstkontakt  Erhöhter Betreuungsaufwand Typ 1 Diabetiker // Medizinische Betreuung bei Umstellung",  # KV:20
     "90762O":"DSP-Leistung Erstkontakt Erhöhter Betreuungsaufwand überwiesener Typ 1 Diabetiker",  # KV:20
     "90762P":"DSP-Leistung Erstkontakt Erhöhter Betreuungsaufwand überwiesener Typ 1 Diabetiker",  # KV:20
     "90762S":"DSP-Leistung Erstkontakt Erhöhter Betreuungsaufwand überwiesener Typ 1 Diabetiker // Schwangerschaft bei Typ 1-Diabetike",  # KV:20
@@ -9947,7 +9946,7 @@ EBM_BEZEICHNUNG = {
     "90767F":"DSP-Leistung  Erstkontakt höchster Betreuungsaufwand  Typ 1 Diabetiker // Medizinische Betreuung bei  Ersteinstellung au",  # KV:20
     "90767O":"DSP-Leistung Erneuter Erstkontakt höchster Betreuungsaufwand bei eigenem Typ 1 Diabetiker",  # KV:20
     "90767U":"DSP-Leistung Erneuter Erstkontakt höchster Betreuungsaufwand bei eigenem Typ 1 Diabetiker",  # KV:20
-    "90768":"DSP-Leistung Folgebehandlung bei eigenem Typ 1 Diabetiker: Alle Patientengruppen vom Folgequartal nach Erstkontakt oder ",  # KV:20
+    "90768":"DSP-Leistung Folgebehandlung bei eigenem Typ 1 Diabetiker: Alle Patientengruppen vom Folgequartal nach Erstkontakt oder",  # KV:20
     "90768S":"DSP-Leistung Folgebehandlung bei eigenem Typ 1 Diabetiker // Folgequartal bei Typ 1-Diabetes mit Schwangerschaft",  # KV:20
     "90770":"Augenärztliche Untersuchung Typ 1 und Typ 2 Diabetiker",  # KV:20
     "90770A":"Kennzeichnung des Patiententyps Typ-1-Diabetiker",  # KV:20
@@ -9958,7 +9957,7 @@ EBM_BEZEICHNUNG = {
     "90771C":"DSP-Leistung Erneuter Erstkontakt Normaler Betreuungsaufwand überwiesener Typ 2 Diabetiker",  # KV:20
     "90771D":"DSP-Leistung Erneuter Erstkontakt Normaler Betreuungsaufwand überwiesener Typ 2 Diabetiker",  # KV:20
     "90771E":"DSP-Leistung Erneuter Erstkontakt Normaler Betreuungsaufwand überwiesener Typ 2 Diabetiker",  # KV:20
-    "90771F":"DSP-Leistung Erstkontakt Normaler Betreuungsaufwand überwiesener Typ 2 Diabetiker Diabetisches Fußsyndrom Wagnerstadium ",  # KV:20
+    "90771F":"DSP-Leistung Erstkontakt Normaler Betreuungsaufwand überwiesener Typ 2 Diabetiker Diabetisches Fußsyndrom Wagnerstadium",  # KV:20
     "90771G":"DSP-Leistung Erstkontakt Normaler Betreuungsaufwand  (Patientinnen mit Gestationsdiabetes) //  Gestationsdiabetes ohne I",  # KV:20
     "90771I":"DSP-Leistung Erneuter Erstkontakt Normaler Betreuungsaufwand überwiesener Typ 2 Diabetiker",  # KV:20
     "90771J":"DSP-Leistung  Erstkontakt normaler Betreuungsaufwand  Typ 2 Diabetiker // Optimierung der Stoffwechsellage und der medik",  # KV:20
@@ -10241,9 +10240,9 @@ EBM_BEZEICHNUNG = {
     "91039L":"Aggregatwechsel (Adapter) bei Herzschrittmacherimplantationen - Zweikammers.",  # KV:71
     "91040L":"Einmal-Laser-Lichtleiter b. OP v. papillären Blasen-Tumoren, Kondylomen und Harnröhrenstrikturen",  # KV:71
     "91041":"strukturiertes Arzneitmittel-Management für Siegen-Wittgenstein, Motivation des Patienten zur Teilnahme und anschl. Bera",  # KV:20
-    "91042":"strukturiertes Arzneitmittel-Management für Siegen-Wittgenstein, Konsultationen zur Optimierung der Medikation zwischen ",  # KV:20
+    "91042":"strukturiertes Arzneitmittel-Management für Siegen-Wittgenstein, Konsultationen zur Optimierung der Medikation zwischen",  # KV:20
     "91042L":"Spezialsonde bei Laserkoagulation bei endoskopischen Leistungen",  # KV:71
-    "91043":"strukturiertes Arzneitmittel-Management für Siegen-Wittgenstein, Konsultationen zur Optimierung der Medikation zwischen ",  # KV:20
+    "91043":"strukturiertes Arzneitmittel-Management für Siegen-Wittgenstein, Konsultationen zur Optimierung der Medikation zwischen",  # KV:20
     "91043L":"Metallstent bei Gallendrainagen",  # KV:71
     "91044L":"Ösophagusprothesen (Stents)",  # KV:71
     "91045L":"Gefäßstent",  # KV:71
@@ -10489,7 +10488,7 @@ EBM_BEZEICHNUNG = {
     "91221C":"DMP COPD - Elektronische Erstellung der Dokumentation mittels Praxissoftware und Übermittlung der Dokumentation an die D",  # KV:20
     "91222":"ZD / HDF Kinder",  # KV:78
     "91222A":"DMP Asthma - Elektronische Erstellung der Folgedokumentation mittels Praxissoftware und Übermittlung der Dokumentation a",  # KV:20
-    "91222C":"DMP COPD - Elektronische Erstellung der Folgedokumentation mittels Praxissoftware und Übermittlung der Dokumentation an ",  # KV:20
+    "91222C":"DMP COPD - Elektronische Erstellung der Folgedokumentation mittels Praxissoftware und Übermittlung der Dokumentation an",  # KV:20
     "91223A":"DMP Asthma - Elektronische Erstellung der Folgedokumentation bei Arztwechsel mittels Praxissoftware und Übermittlung der",  # KV:20
     "91223C":"DMP COPD - Elektronische Erstellung der Folgedokumentation bei Arztwechsel mittels Praxissoftware und Übermittlung der D",  # KV:20
     "91224A":"DMP Asthma - Betreuungspauschale für die ausschließliche fachärztliche Mitbehandlung im DMP Asthma bronchiale",  # KV:20
@@ -10584,8 +10583,8 @@ EBM_BEZEICHNUNG = {
     "91315L":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik, linkes Auge - IKK classic",  # KV:20
     "91315R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik, rechtes Auge - IKK classic",  # KV:20
     "91316":"AOK - Priomed - Anämiediagnostik Ferritin (9. - 12. SSW)",  # KV:46
-    "91316L":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie ",  # KV:20
-    "91316R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie ",  # KV:20
+    "91316L":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie",  # KV:20
+    "91316R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie",  # KV:20
     "91320":"AOK - Priomed - Herzinsuffisienz - Einschreibung von Versicherten in den Vertrag",  # KV:46
     "91321":"AOK - Priomed - Herzinsuffisienz - Strukturierte Anamnese",  # KV:46
     "91321L":"Intravitreale Injektion, postoperativer Leistungskomplex, linkes Auge - IKK classic",  # KV:20
@@ -10604,7 +10603,7 @@ EBM_BEZEICHNUNG = {
     "91325R":"Intravitreale Injektion, postoperativer Leistungskomplex, rechtes Auge - IKK classic",  # KV:20
     "91326":"Fallpauschale Ärztlicher Dienst I-Neuwied",  # KV:46
     "91326L":"Intravitreale Injektion, postoperativer Leistungskomplex bei proliferative diabetische Retinopathie (PDR), linkes Auge (",  # KV:20
-    "91326R":"Intravitreale Injektion, postoperativer Leistungskomplex bei proliferative diabetische Retinopathie (PDR), rechtes Auge ",  # KV:20
+    "91326R":"Intravitreale Injektion, postoperativer Leistungskomplex bei proliferative diabetische Retinopathie (PDR), rechtes Auge",  # KV:20
     "91327":"AOK - Priomed - Herzinsuffisienz - Telemonitoring, Pfad 2",  # KV:46
     "91328":"AOK - Priomed - Herzinsuffisienz - Telemonitoring, Pfad 3",  # KV:46
     "91329":"AOK - Priomed - Herzinsuffisienz - Qualitätspauschale Kardiologie II",  # KV:46
@@ -10656,8 +10655,8 @@ EBM_BEZEICHNUNG = {
     "91414R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik, rechtes Auge",  # KV:20
     "91415L":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik, linkes Auge",  # KV:20
     "91415R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik, rechtes Auge",  # KV:20
-    "91416L":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie ",  # KV:20
-    "91416R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie ",  # KV:20
+    "91416L":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie",  # KV:20
+    "91416R":"Intravitreale Injektion, Leistungkomplexpauschale für die Verlaufsdiagnostik bei proliferative diabetische Retinopathie",  # KV:20
     "91421L":"Intravitreale Injektion, postoperativer Leistungskomplex, linkes Auge",  # KV:20
     "91421R":"Intravitreale Injektion, postoperativer Leistungskomplex, rechtes Auge",  # KV:20
     "91422L":"Intravitreale Injektion, postoperativer Leistungskomplex, linkes Auge",  # KV:20
@@ -10670,7 +10669,7 @@ EBM_BEZEICHNUNG = {
     "91425L":"Intravitreale Injektion, postoperativer Leistungskomplex, linkes Auge",  # KV:20
     "91425R":"Intravitreale Injektion, postoperativer Leistungskomplex, rechtes Auge",  # KV:20
     "91426L":"Intravitreale Injektion, postoperativer Leistungskomplex bei proliferative diabetische Retinopathie (PDR), linkes Auge (",  # KV:20
-    "91426R":"Intravitreale Injektion, postoperativer Leistungskomplex bei proliferative diabetische Retinopathie (PDR), rechtes Auge ",  # KV:20
+    "91426R":"Intravitreale Injektion, postoperativer Leistungskomplex bei proliferative diabetische Retinopathie (PDR), rechtes Auge",  # KV:20
     "91427L":"Intravitreale Injektion, zusätzliche postoperative Nachbehandlung bei Patienten mit Diabetischem Makulaödem nach Ozurdex",  # KV:20
     "91427R":"Intravitreale Injektion, zusätzliche postoperative Nachbehandlung bei Patienten mit Diabetischem Makulaödem nach Ozurdex",  # KV:20
     "91428L":"Intravitreale Injektion, zusätzliche postoperative Nachbehandlung bei Patienten mit Makulaödem nach retinalen Venenversc",  # KV:20
@@ -10683,7 +10682,7 @@ EBM_BEZEICHNUNG = {
     "91432R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit diabetischen Makulaödemen (DMÖ), recht",  # KV:20
     "91433L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit diabetischen Makulaödemen nach retinal",  # KV:20
     "91433R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit diabetischen Makulaödemen nach retinal",  # KV:20
-    "91434L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit CNV bei pathologischer Myopie, linkes ",  # KV:20
+    "91434L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit CNV bei pathologischer Myopie, linkes",  # KV:20
     "91434R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit CNV bei pathologischer Myopie, rechtes",  # KV:20
     "91435L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit proliferative diabetische Retinopathie",  # KV:20
     "91435R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit proliferative diabetische Retinopathie",  # KV:20
@@ -10699,7 +10698,7 @@ EBM_BEZEICHNUNG = {
     "91443R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit diabetischen Makulaödemen nach retinal",  # KV:20
     "91444L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit akuter posteriorer Uveitis, linkes Aug",  # KV:20
     "91444R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit akuter posteriorer Uveitis, rechtes Au",  # KV:20
-    "91445L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit CNV bei pathologischer Myopie, linkes ",  # KV:20
+    "91445L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit CNV bei pathologischer Myopie, linkes",  # KV:20
     "91445R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit CNV bei pathologischer Myopie, rechtes",  # KV:20
     "91446L":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit proliferative diabetische Retinopathie",  # KV:20
     "91446R":"Intravitreale Injektion, Pauschale ärztliches Operationshonorar bei Patienten mit proliferative diabetische Retinopathie",  # KV:20
@@ -10740,8 +10739,8 @@ EBM_BEZEICHNUNG = {
     "91500":"Screening zur Früherkennung einer PAVK, 1x im KHF",  # KV:20
     "91501":"Krankheitsorientiertes intensives Gespräch PAVK, 2x je Kalenderjahr",  # KV:20
     "91502":"Screening zur Früherkennung chronischer Nierenkrankheit, 1x im KHF",  # KV:20
-    "91502S":"Palliativmedizinische Versorgung, Zuschlag für einen erforderlichen Hausbesuch nach GOP 01410, 01411, 01412, 01415 oder ",  # KV:20
-    "91502T":"Palliativmedizinische Versorgung, Zuschlag für einen erforderlichen Hausbesuch nach GOP 01410, 01411, 01412, 01415 oder ",  # KV:20
+    "91502S":"Palliativmedizinische Versorgung, Zuschlag für einen erforderlichen Hausbesuch nach GOP 01410, 01411, 01412, 01415 oder",  # KV:20
+    "91502T":"Palliativmedizinische Versorgung, Zuschlag für einen erforderlichen Hausbesuch nach GOP 01410, 01411, 01412, 01415 oder",  # KV:20
     "91503":"Krankheitsorientiertes intensives Gespräch chronische Nierenkrankheit, 2x je Kalenderjahr",  # KV:20
     "91504":"Teststreifen Mikroalbuminurie",  # KV:20
     "91504S":"Palliativmedizinische Versorgung, Zuschlag für einen erforderlichen Hausbesuch nach GOP 01413, mehr als 45 Minuten, (tei",  # KV:20
@@ -11098,8 +11097,8 @@ EBM_BEZEICHNUNG = {
     "92107":"Typhus (privater Auslandsaufenthalt)",  # KV:17
     "92108":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen: für 5 bis 18-jährige",  # KV:17
     "92108E":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen: für 5 bis 18-jährige - Einzelschulung",  # KV:46
-    "92108N":"Versorgungsfeld - Vaskuläre Komplikationen: Angiopathie bei Hypertonie und/oder Diabetes mellitus: Erstuntersuchung für ",  # KV:46
-    "92108P":"Versorgungsfeld - Vaskuläre Komplikationen: Angiopathie bei Hypertonie und/oder Diabetes mellitus: Erstuntersuchung für ",  # KV:88
+    "92108N":"Versorgungsfeld - Vaskuläre Komplikationen: Angiopathie bei Hypertonie und/oder Diabetes mellitus: Erstuntersuchung für",  # KV:46
+    "92108P":"Versorgungsfeld - Vaskuläre Komplikationen: Angiopathie bei Hypertonie und/oder Diabetes mellitus: Erstuntersuchung für",  # KV:88
     "92108V":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen: für 5 bis 18-jährige - vorzeitige Wiederholungss",  # KV:46
     "92108W":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen: für 5 bis 18-jährige - Wiederholungsschulung",  # KV:46
     "92109":"Versorgungsfeld - Vaskuläre Komplikationen: Angiopathie bei Hypertonie und/oder Diabetes mellitus: Weiterbetreuung für P",  # KV:17
@@ -11124,7 +11123,7 @@ EBM_BEZEICHNUNG = {
     "92114N":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen - Betreuungsperson - Nachschulung",  # KV:46
     "92114V":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen - Betreuungsperson - vorzeitige Wiederholungsschu",  # KV:46
     "92114W":"DMP Asthma - Qualitätsmanagement Schulung von Kindern und Jugendlichen - Betreuungsperson - Wiederholungsschulung",  # KV:46
-    "92115":"Bereitschaftspauschale  QPA, nur abrechnungsfähig i.V. mit einer anderen Leistung d. Vertrages oder einer EBM Nr., max. ",  # KV:38
+    "92115":"Bereitschaftspauschale  QPA, nur abrechnungsfähig i.V. mit einer anderen Leistung d. Vertrages oder einer EBM Nr., max.",  # KV:38
     "92115N":"Versorgungsmodul - Fettleber: Erstuntersuchung,ohne auffälligen Untersuchungsbefund, 1-mal im Krankheitsfall",  # KV:88
     "92115P":"Versorgungsmodul - Fettleber: Erstuntersuchung,mit auffälligen Untersuchungsbefund, 1-mal im Krankheitsfall",  # KV:88
     "92116":"Versorgungsmodul - Fettleber: Weiterbetreuung für Patienten mit positiven Testergebnis aus der Erstuntersuchung, 1-mal i",  # KV:38
@@ -11141,17 +11140,17 @@ EBM_BEZEICHNUNG = {
     "92121":"DMP COPD - Erstellung und Versand der Folgedoku im zweiten bzw. dritten DMP",  # KV:38
     "92121C":"DMP COPD - Erstellung und Versand der Folgedoku im zweiten bzw. dritten DMP",  # KV:46
     "92121L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß, Erstbehandlung durch die Fußambulanz, Wagner Stadium 1: linker F",  # KV:88
-    "92121R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß, Erstbehandlung durch die Fußambulanz, Wagner Stadium 1: rechter ",  # KV:88
+    "92121R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß, Erstbehandlung durch die Fußambulanz, Wagner Stadium 1: rechter",  # KV:88
     "92122":"Erstellung und Versand der Abschlussdokumentation nach Anlage 3b",  # KV:38
-    "92122L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 2: linker ",  # KV:88
+    "92122L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 2: linker",  # KV:88
     "92122R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 2: rechter",  # KV:88
-    "92123L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 3: linker ",  # KV:88
+    "92123L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 3: linker",  # KV:88
     "92123R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 3: rechter",  # KV:88
-    "92124L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 4: linker ",  # KV:88
+    "92124L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 4: linker",  # KV:88
     "92124R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 4: rechter",  # KV:88
     "92125":"DMP COPD - COBRA (Schulung für eingeschriebene Patienten mit chronischer obstruktiver Bronchitis und Lungenemphysem)",  # KV:46
     "92125E":"DMP COPD - COBRA (Schulung für eingeschriebene Patienten mit chronischer obstruktiver Bronchitis und Lungenemphysem) - E",  # KV:46
-    "92125L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 5: linker ",  # KV:88
+    "92125L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 5: linker",  # KV:88
     "92125N":"DMP COPD - COBRA (Schulung für eingeschriebene Patienten mit chronischer obstruktiver Bronchitis und Lungenemphysem) - N",  # KV:46
     "92125Q":"DMP COPD - COBRA (Schulung für eingeschriebene Patienten mit chronischer obstruktiver Bronchitis und Lungenemphysem) - Q",  # KV:46
     "92125R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Erstbehandlung durch die Fußambulanz, Wagner Stadium 5: rechter",  # KV:88
@@ -11213,17 +11212,17 @@ EBM_BEZEICHNUNG = {
     "92149N":"DMP Diabetes mellitus Typ II - Behandlungs- und Schulungsprogramm für Typ II Diabetiker die Insulin spritzen - Nachschul",  # KV:46
     "92149V":"DMP Diabetes mellitus Typ II - Behandlungs- und Schulungsprogramm für Typ II Diabetiker die Insulin spritzen - vorzeitig",  # KV:46
     "92149W":"DMP Diabetes mellitus Typ II - Behandlungs- und Schulungsprogramm für Typ II Diabetiker die Insulin spritzen - Wiederhol",  # KV:46
-    "92150":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Nachsorgepauschale, 1-mal im BHF, für max. 4 Quartale nach der ",  # KV:38
+    "92150":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß,  Nachsorgepauschale, 1-mal im BHF, für max. 4 Quartale nach der",  # KV:38
     "92150L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß:  Nachsorgepauschale (Wagner 1-5) durch die Fußambulanz, linker F",  # KV:88
-    "92150R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß:  Nachsorgepauschale (Wagner 1-5) durch die Fußambulanz, rechter ",  # KV:88
+    "92150R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß:  Nachsorgepauschale (Wagner 1-5) durch die Fußambulanz, rechter",  # KV:88
     "92151":"DMP Diabetes mellitus Typ I - Erstdokumentation",  # KV:38
     "92151L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß: Abheilungspauschale (Wagner 1-5) durch die Fußambulanz für den m",  # KV:88
     "92151R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß: Abheilungspauschale (Wagner 1-5) durch die Fußambulanz für den m",  # KV:88
     "92152":"DMP Diabetes mellitus I - Folgedokumentation",  # KV:46
     "92152L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß - Zuschlag Operative Versorgung (Wagner 1-5) durch die operativ s",  # KV:88
     "92152R":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß - Zuschlag Operative Versorgung (Wagner 1-5) durch die operativ s",  # KV:88
-    "92153":"DMP Diabetes mellitus I - Beratungspauschale bei Mehrfacheinschreibung (für die Einschreibung in das zweite bzw. dritte ",  # KV:38
-    "92153D":"DMP Diabetes mellitus I - Beratungspauschale bei Mehrfacheinschreibung (für die Einschreibung in das zweite bzw. dritte ",  # KV:46
+    "92153":"DMP Diabetes mellitus I - Beratungspauschale bei Mehrfacheinschreibung (für die Einschreibung in das zweite bzw. dritte",  # KV:38
+    "92153D":"DMP Diabetes mellitus I - Beratungspauschale bei Mehrfacheinschreibung (für die Einschreibung in das zweite bzw. dritte",  # KV:46
     "92154":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß, Konsiliarzuschlag (ersetzt die Erstbehandlung) durch weitere tei",  # KV:38
     "92154D":"DMP Diabetes mellitus I - Erstellung und Versand der Folgedoku im zweiten bzw. dritten DMP",  # KV:46
     "92154L":"Vereinbarung Diabetisches Fußsyndrom und Hochrisikofuß, Konsiliarzuschlag (ersetzt die Erstbehandlung) durch weitere tei",  # KV:88
@@ -12150,7 +12149,7 @@ EBM_BEZEICHNUNG = {
     "93382":"Abgabe von Schulungsmaterial für Schulung nach GOP 93381",  # KV:38
     "93382A":"IV Palliativmedizin Kinder/Jugendl. Bonn/Rhein-Sieg-Kreis, zusätzliche Aufwandspauschale für Dringlichkeitsbesuche neben",  # KV:38
     "93382B":"IV Palliativmedizin Kinder/Jugendl. Raum Essen, zusätzliche Aufwandspauschale für Dringlichkeitsbesuche neben den EBM-Zi",  # KV:38
-    "93382C":"IV Palliativmedizin Kinder/Jugendl. Städte Region Aachen, zusätzliche Aufwandspauschale für Dringlichkeitsbesuche neben ",  # KV:38
+    "93382C":"IV Palliativmedizin Kinder/Jugendl. Städte Region Aachen, zusätzliche Aufwandspauschale für Dringlichkeitsbesuche neben",  # KV:38
     "93383":"IV Palliativmedizin Kinder/Jugendl. Düsseldorf, persönliche Krankenhausüberleitung",  # KV:38
     "93383A":"IV Palliativmedizin Kinder/Jugendl. Bonn/Rhein-Sieg-Kreis, persönliche Krankenhausüberleitung",  # KV:38
     "93383B":"IV Palliativmedizin Kinder/Jugendl. Raum Essen, persönliche Krankenhausüberleitung",  # KV:38
@@ -12234,7 +12233,7 @@ EBM_BEZEICHNUNG = {
     "93542":"Vertrag zur Versorgung von Pflegeheimbewohnern in der Region Bünde, Lippe, Marl, Münster, Unna, kontaktabhängige Versorg",  # KV:20
     "93542A":"Vertrag zur Versorgung von Pflegeheimbewohnern in der Region Bünde, Lippe, Marl, Münster, Unna, kontaktabhängige Versorg",  # KV:20
     "93542B":"Vertrag zur Versorgung von Pflegeheimbewohnern in der Region Bünde, Lippe, Marl, Münster, Unna, kontaktabhängige Versorg",  # KV:20
-    "93543":"Vertrag zur Versorgung von Pflegeheimbewohnern, SNR für die hausärztliche Versorgerteams/Netzarzt (abzurechnen über das ",  # KV:20
+    "93543":"Vertrag zur Versorgung von Pflegeheimbewohnern, SNR für die hausärztliche Versorgerteams/Netzarzt (abzurechnen über das",  # KV:20
     "93544":"Vertrag zur Versorgung von Pflegeheimbewohnern, SNR für die Netz-EVA, persönlicher nicht anlassbezogener Patientenkontak",  # KV:20
     "93545":"Vertrag zur Versorgung von Pflegeheimbewohnern, SNR für die Netz-EVA, persönlicher anlassbezogener Patientenkontakt",  # KV:20
     "93546":"Vertrag zur Versorgung von Pflegeheimbewohnern, SNR für die Netz-EVA, Vertragsarztkontakt",  # KV:20
@@ -12502,10 +12501,10 @@ EBM_BEZEICHNUNG = {
     "93851M":"Altersentsprechende Prüfung der Sprache und des Hörens i. Z. m. U3-U7a",  # KV:71
     "93851N":"Altersentsprechende Prüfung der Sprache und des Hörens i. Z. m. U8",  # KV:71
     "93851O":"Altersentsprechende Prüfung der Sprache und des Hörens i. Z. m. U9",  # KV:71
-    "93851P":"Amblyopiescreening (Vorsorgeuntersuchung zur Aufdeckung von Sehstörungen in der Entwicklung des kindlichen Sehens.) (U5 ",  # KV:71
+    "93851P":"Amblyopiescreening (Vorsorgeuntersuchung zur Aufdeckung von Sehstörungen in der Entwicklung des kindlichen Sehens.) (U5",  # KV:71
     "93851Q":"Amblyopiescreening (Vorsorgeuntersuchung zur Aufdeckung von Sehstörungen in der Entwicklung des kindlichen Sehens.) (U7)",  # KV:71
     "93851R":"Amblyopiescreening (Vorsorgeuntersuchung zur Aufdeckung von Sehstörungen in der Entwicklung des kindlichen Sehens.) (U8-",  # KV:71
-    "93851S":"Amblyopiescreening (Vorsorgeuntersuchung zur Aufdeckung von Sehstörungen in der Entwicklung des kindlichen Sehens.) (12 ",  # KV:71
+    "93851S":"Amblyopiescreening (Vorsorgeuntersuchung zur Aufdeckung von Sehstörungen in der Entwicklung des kindlichen Sehens.) (12",  # KV:71
     "93999":"Behandlungsnachweis Arztnetze",  # KV:71
     "94000":"Notfalldienst 30% Aufschlag für ärztliche Leistungen zu besonders definierten Zeiten",  # KV:02
     "94001":"Ambulante geriatrische Komplexbehandlung in der geriatrischen Schwerpunktpraxis - um Zuzahlungsbetrag geminderte Tagespa",  # KV:02
@@ -12976,7 +12975,7 @@ EBM_BEZEICHNUNG = {
     "95189":"IV-Vertrag 'Borderline', Gruppensitzung, max. 160 Sitzungen in 5 Jahren ab Datum der Einschreibung",  # KV:20
     "95191":"IV-Vertrag 'Borderline', eingehende psychiatrische Untersuchung ggf. unter Einschaltung der Bezugs- und/oder Kontaktpers",  # KV:20
     "95192":"IV-Vertrag 'Borderline', psychiatrische Behandlung durch eingehendes therapeutisches Gespräch auch mit gezielter Explora",  # KV:20
-    "95193":"IV-Vertrag 'Borderline', psychiatrische Behandlung durch gezielte Exploration und eingehendes therapeutisches Gespräch, ",  # KV:20
+    "95193":"IV-Vertrag 'Borderline', psychiatrische Behandlung durch gezielte Exploration und eingehendes therapeutisches Gespräch,",  # KV:20
     "95194":"IV-Vertrag 'Borderline', psychiatrische Notfallbehandlung bei Suizidversuch und anderer psychischer Dekompensation durch",  # KV:20
     "95200":"Kennzeichnung - Narkosen für Kinder unter 12 Jahren",  # KV:71
     "95201":"Kenn-Nr. BPx Straubing",  # KV:03
@@ -13329,7 +13328,7 @@ EBM_BEZEICHNUNG = {
     "96007":"Reserviert",  # KV:02
     "96008":"Reserviert",  # KV:02
     "96009":"Reserviert",  # KV:02
-    "96010":"DMP Diabetes Typ 2 / Einschreibung/ Erstdokumentation sowie Versand der Einschreibeunterlagen durch den koordinierenden ",  # KV:02
+    "96010":"DMP Diabetes Typ 2 / Einschreibung/ Erstdokumentation sowie Versand der Einschreibeunterlagen durch den koordinierenden",  # KV:02
     "96011":"DMP Diabetes Typ 2 / Erstellung und Versand der Folgedokumentationen durch den koordinierenden Vertragsarzt , je Folgedo",  # KV:02
     "96012":"DMP Diabetes Typ 2 / Betreuungspauschale für den koordinierenden Vertragsarzt, je Behandlungsfall",  # KV:02
     "96012A":"Kontrastmittel Regadenoson 5ml",  # KV:71
@@ -13347,7 +13346,7 @@ EBM_BEZEICHNUNG = {
     "96020A":"Kontrastmittelpauschale",  # KV:71
     "96020D":"DMP Diabetes Typ 2 / Schulung Diabetiker ohne Insulinbehandlung (Kronsbein, Jörgens; 4 UE)",  # KV:83
     "96020F":"DMP Diabetes Typ 2 / Nachschulung Diabetiker ohne Insulinbehandlung (Kronsbein, Jörgens; 4 UE)",  # KV:83
-    "96020G":"DMP Diabetes Typ I: SPOG Schulungs- und Behandlungsprogramm für Patienten mit oraler Gerinnungshemmung, je Teilnehmer 4 ",  # KV:88
+    "96020G":"DMP Diabetes Typ I: SPOG Schulungs- und Behandlungsprogramm für Patienten mit oraler Gerinnungshemmung, je Teilnehmer 4",  # KV:88
     "96020I":"DMP Diabetes Typ I: Schulung HyPOS",  # KV:88
     "96020J":"DMP Diabetes Typ I: Jugendliche mit Diabetes, 16 Unterrichtseinheiten, die innerhalb von 6 Tagen erteilt werden sollten,",  # KV:88
     "96020K":"DMP Diabetes Typ I: Behandlungs- und Schulungsprogramm für intensivierte Insulintherapie bzw. DTTP, je Teilnehmer 12 Unt",  # KV:88
@@ -13376,7 +13375,7 @@ EBM_BEZEICHNUNG = {
     "96021R":"DMP Diabetes Typ I: Schulungsmaterial NASA uns AFAS",  # KV:88
     "96021S":"DMP Diabetes Typ I: Schulungsmaterial zum Behandlungs- und Schulungsprogramm für Patienten mit Hypertonie (ZI-Schulung)",  # KV:88
     "96021T":"DMP Diabetes Typ I: Schulungsmaterial - Chr. obstruktive Bronchitis mit und ohne Lungenemphysem - Amb. Schulungsp. für C",  # KV:88
-    "96021X":"DMP Diabetes Typ I: Schulungsmaterial für die Patientenschulung COPD: Chronische Bronchitis und Lungenemphysem nach dem ",  # KV:88
+    "96021X":"DMP Diabetes Typ I: Schulungsmaterial für die Patientenschulung COPD: Chronische Bronchitis und Lungenemphysem nach dem",  # KV:88
     "96022":"DMP KHK / Schulung von Typ 2-Diabetikern mit Insulinbehandlung (5 UE)",  # KV:02
     "96022A":"Kontrastmittelpauschale",  # KV:71
     "96022D":"DMP Diabetes Typ 2 / Schulung Diabetiker mit Insulinbehandlung (konventionelle Insulintherapie; 5 UE)",  # KV:83
@@ -13412,7 +13411,7 @@ EBM_BEZEICHNUNG = {
     "96030H":"DMP Diabetes mellitus Typ 1: Patientenschulung ATEM",  # KV:88
     "96031":"DMP - Schulungsmaterial einschl. Diabetes-Pass (Diabetes Typ 1 und 2, KHK)",  # KV:02
     "96031C":"DMP Diabetes Typ I: Schulungsmaterial für PRIMAS, je Unterrichtseinheit",  # KV:88
-    "96031D":"DMP Diabetes mellitus Typ 1:Schulungsmaterial für ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung ",  # KV:88
+    "96031D":"DMP Diabetes mellitus Typ 1:Schulungsmaterial für ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung",  # KV:88
     "96031F":"DMP Diabetes Typ I: Schulungsmaterial für Kardio-Fit",  # KV:88
     "96031G":"DMP Diabetes mellitus Typ 1: Schulungsmaterial für Osteoporose der orthopädischen Gesellschaft für Osteologie",  # KV:88
     "96031H":"DMP Diabetes mellitus Typ 1: Schulungsmaterial ATEM",  # KV:88
@@ -13494,7 +13493,7 @@ EBM_BEZEICHNUNG = {
     "96088":"Reserviert",  # KV:02
     "96089":"Reserviert",  # KV:02
     "96090":"DMP Diabetes Typ1 / Inform., Beratung zum DMP und Einschreibung der Versicherten, Erstellung der Erstdokumentation, Vers",  # KV:02
-    "96091":"DMP Diabetes Typ1 / Erstellung und Versand der Folgedokumentationen durch Vertragsärzte nach § 3 oder § 4 des Vertrages ",  # KV:02
+    "96091":"DMP Diabetes Typ1 / Erstellung und Versand der Folgedokumentationen durch Vertragsärzte nach § 3 oder § 4 des Vertrages",  # KV:02
     "96092":"DMP Diabetes Typ1 / Schulung ab dem vollendeten 18. Lebensjahr (intensivierte Insulintherapie für Erwachsene; 12 UE)",  # KV:02
     "96092N":"DMP Diabetes Typ1 / Nachschulung ab dem vollendeten 18. Lebensjahr (intensivierte Insulintherapie für Erwachsene; 12 UE)",  # KV:83
     "96093":"DMP Diabetes Typ1 / Schulung von Kindern (je UE)",  # KV:02
@@ -13861,7 +13860,7 @@ EBM_BEZEICHNUNG = {
     "96430F":"DMP Osteoporose: Schulung füär Kardio-Fit, innerhalb von 6 Wochen",  # KV:72
     "96430G":"DMP Osteoporose - Schulungsprogramm: Patientenschulung Osteoporose der Orthopädischen Gesellschaft für Osteologie",  # KV:88
     "96430H":"DMP Osteoporose - Schulungsprogramm: Patientenschulung ATEM",  # KV:88
-    "96431":"DMP KHK / Beratung und Erstellung sowie Versand der Folgedokumentation je Folgedokumentation innerhalb des festgelegten ",  # KV:72
+    "96431":"DMP KHK / Beratung und Erstellung sowie Versand der Folgedokumentation je Folgedokumentation innerhalb des festgelegten",  # KV:72
     "96431A":"DMP Osteoporose: Schulungsmaterial - SGS",  # KV:88
     "96431B":"DMP Osteoporose: Schulungsmaterial MEDIAS 2 ICT mit intensivierter Insulintherapie",  # KV:88
     "96431C":"DMP Osteoporose: Schulungsmaterial für PRIMAS",  # KV:88
@@ -13878,8 +13877,8 @@ EBM_BEZEICHNUNG = {
     "96434":"DMP KHK / Beratung und Information des Versicherten und Förderung dessen aktiven Teilname am DMP-KHK im dokumentationsfr",  # KV:72
     "96434E":"Förderung - Behandlung mit Botulinumtoxin bei Spasmus, Zerebralparese, Hemiparese, ... - Behandlung mit Botulinumtoxin (",  # KV:72
     "96434F":"Förderung - Behandlung mit Botulinumtoxin bei Spasmus, Zerebralparese, Hemiparese, ... - Behandlung mit Botulinumtoxin (",  # KV:72
-    "96435":"DMP KHK / Facharztpauschale für die Inform. des Versicherten sowie für zeitnahe Mitbehandlung durch den nach § 4 teiln. ",  # KV:83
-    "96436":"DMP KHK / Facharztpauschale für die Inform. des Versicherten sowie für zeitnahe Mitbehandlung durch den nach § 4 teiln. ",  # KV:83
+    "96435":"DMP KHK / Facharztpauschale für die Inform. des Versicherten sowie für zeitnahe Mitbehandlung durch den nach § 4 teiln.",  # KV:83
+    "96436":"DMP KHK / Facharztpauschale für die Inform. des Versicherten sowie für zeitnahe Mitbehandlung durch den nach § 4 teiln.",  # KV:83
     "96455":"DMP Osteoporose: Prädiagnostikkomplex gem. § 3 Abs. 1 a",  # KV:88
     "96456":"DMP Osteoporose: Diagnostik- und Therapiekomplex:  Pauschale für die fachärztliche Mitbehandlung",  # KV:88
     "96500":"Behandlung florider Hämoblastosen (Onkologie-Vereinbarung Thüringen)",  # KV:93
@@ -13980,7 +13979,7 @@ EBM_BEZEICHNUNG = {
     "97006W":"DMP Typ 1 Diabetes   Behandlungs und Schulungsprogramm",  # KV:02
     "97007":"Mehraufwandspauschale bei Erstkontakt",  # KV:02
     "97008":"Förderung Beratungsgespräch bei Endometriose",  # KV:02
-    "97008W":"Schulung 11: PRIMAS - für Menschen mit Typ 1-Diabetes und einer Insulintherapie mit mehrmals täglicher Insulininjektion ",  # KV:02
+    "97008W":"Schulung 11: PRIMAS - für Menschen mit Typ 1-Diabetes und einer Insulintherapie mit mehrmals täglicher Insulininjektion",  # KV:02
     "97009":"Schulungsmaterial für Schulung 11",  # KV:02
     "97009A":"Sicherstellungszuschlag Hausärzte drei Kriterien",  # KV:71
     "97009B":"Sicherstellungszuschlag Hausärzte vier Kriterien",  # KV:71
@@ -14623,7 +14622,7 @@ EBM_BEZEICHNUNG = {
     "98015":"Bedarfsfeststellung (Landesrahmenvereinbarung des Saarlandes nach § 46 Abs. 4 SGB IX Früherkennung und Frühförderung)",  # KV:02
     "98016":"Halbjährliche Bedarfsüberprüfung (Landesrahmenvereinbarung des Saarlandes nach § 46 Abs. 4 SGB IX Früherkennung und Früh",  # KV:02
     "98016A":"Betreuung der Diabetiker Typ I und Typ II mit Insulin bzw. von Gestationsdiabetikerinnen durch Schwerpunktpraxen, je Beh",  # KV:88
-    "98016E":"Behandlungs- und Schulungsprogramm Hypertonie, Typ II, 4 UE, Einzelschulung (in begründeten Ausnahmefällen)  , pro Pat. ",  # KV:38
+    "98016E":"Behandlungs- und Schulungsprogramm Hypertonie, Typ II, 4 UE, Einzelschulung (in begründeten Ausnahmefällen)  , pro Pat.",  # KV:38
     "98016N":"Behandlungs- und Schulungsprogramm Hypertonie, Typ II, 4 UE, Nachschulung (max. 1 UE im Jahr), pro Pat. im Erlebensfall",  # KV:38
     "98016W":"Behandlungs- und Schulungsprogramm Hypertonie, Typ II, 4 UE, Wiederholungsschulung , pro Pat. im Erlebensfall",  # KV:38
     "98017":"KHS Fallpauschale",  # KV:20
@@ -14666,16 +14665,16 @@ EBM_BEZEICHNUNG = {
     "98026W":"Medias 2 BOT + SIT + CT (Medias 2 BSC),6 U-Einheiten,Wiederholungsschulung,pro Patient im Erlebensfall",  # KV:38
     "98027":"KHS Fallpauschale",  # KV:20
     "98028":"Schulung MEDIAS 2 ICT (DSP), TYP II, 12 Unterrichtseinheiten,pro Patient im Erlebensfall",  # KV:20
-    "98028E":"Schulung MEDIAS 2 ICT (DSP), TYP II, 12 Unterrichtseinheiten ,Einzelschulung (in begründeten Ausnahmefällen)pro Patient ",  # KV:38
+    "98028E":"Schulung MEDIAS 2 ICT (DSP), TYP II, 12 Unterrichtseinheiten ,Einzelschulung (in begründeten Ausnahmefällen)pro Patient",  # KV:38
     "98028N":"Schulung MEDIAS 2 ICT (DSP), TYP II, 12 Unterrichtseinheiten,Nachschulung (max. 2 UE im Jahr),pro Patient im Erlebensfal",  # KV:38
     "98028W":"Schulung MEDIAS 2 ICT (DSP), TYP II, 12 Unterrichtseinheiten,Wiederholungsschulung,pro Patient im Erlebensfall",  # KV:38
     "98029":"Schulung für intensivierte Insulintherapie - ICT (DSP),TYP II,12 Unterrichtseinheiten,pro Patient im Erlebensfall",  # KV:20
-    "98029E":"Schulung für intensivierte Insulintherapie - ICT (DSP),TYP II,12 UE,Einzelschulung (in begründeten Ausnahmefällen) max. ",  # KV:38
+    "98029E":"Schulung für intensivierte Insulintherapie - ICT (DSP),TYP II,12 UE,Einzelschulung (in begründeten Ausnahmefällen) max.",  # KV:38
     "98029N":"Schulung für intensivierte Insulintherapie - ICT (DSP),TYP II,12 UE,Nachschulung (max. 2 UE im Jahr)pro Patient im Erleb",  # KV:38
     "98029W":"Schulung für intensivierte Insulintherapie - ICT (DSP),TYP II,12 UE,Wiederholungsschulung,pro Patient im Erlebensfall",  # KV:38
     "98030":"KHS Fallpauschale",  # KV:20
     "98031":"Blutglukosewahrnehmungstraining (BGAT)  DSP,TYP II,8 UE in Gruppen,pro Patient im Erlebensfall",  # KV:20
-    "98031E":"Blutglukosewahrnehmungstraining (BGAT)  DSP,TYP II,8 UE in Gruppen,Einzelschulung (in begründeten Ausnahmefällen)  ,pro ",  # KV:38
+    "98031E":"Blutglukosewahrnehmungstraining (BGAT)  DSP,TYP II,8 UE in Gruppen,Einzelschulung (in begründeten Ausnahmefällen)  ,pro",  # KV:38
     "98031N":"Blutglukosewahrnehmungstraining (BGAT)  DSP,TYP II,8 UE in Gruppen,Nachschulung  (max. 2 UE im Jahr),",  # KV:38
     "98031W":"Blutglukosewahrnehmungstraining (BGAT)  DSP,TYP II,8 UE in Gruppen,Wiederholungsschulung ,pro Patient im Erlebensfall",  # KV:38
     "98032":"HyPOS - Hyperglykämie - Positives Selbstmanagement , DSP,TYP II,5 UE in Gruppen,pro Patient im Erlebensfall",  # KV:20
@@ -14690,9 +14689,9 @@ EBM_BEZEICHNUNG = {
     "98036W":"Schulungsprogramm Typ 2- INPUT-Selbstbestimmtes Leben mit Diab. u. Insulinpumpe-Wiederholungsschulung 12 UE, pro Pat ein",  # KV:38
     "98037":"Verbrauchsmaterial INPUT Typ 2- zur Schulung SNR 98036,98036E,98036W, einmalig",  # KV:20
     "98038":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 2  f. Erwachsene , 6 UE pro Pat. einmal im Erlebensfall",  # KV:38
-    "98038E":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 2  f. Erwachsene- Einzelschulung- , 6 UE pro Pat. einmal ",  # KV:38
+    "98038E":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 2  f. Erwachsene- Einzelschulung- , 6 UE pro Pat. einmal",  # KV:38
     "98038N":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 2  f. Erwachsene- Nachschulung- (max. 2 UE im Kalenderjah",  # KV:38
-    "98038W":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 2  f. Erwachsene- Wiederholungsschulung- , 6 UE pro Pat. ",  # KV:38
+    "98038W":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 2  f. Erwachsene- Wiederholungsschulung- , 6 UE pro Pat.",  # KV:38
     "98041":"Einschreibung und Erstberatung des Patienten",  # KV:17
     "98042":"Sachkostenpauschale für den Einsatz des Smart-Ereignis-Rekorders und die Auswertung der erfassten Daten",  # KV:17
     "98043":"Inhaltliche Besprechung der Ergebnisse des Smart-Ereignis-Rekorders und ausführliches Beratungsgespräch zur weiteren ind",  # KV:17
@@ -14771,7 +14770,7 @@ EBM_BEZEICHNUNG = {
     "98125":"Spezifische Betreuung des Versicherten außerhalb der Praxis durch den Therapiebegleiter i. R. der IPV /PsycheAktiv Sachs",  # KV:20
     "98125A":"KHS Fallpauschale",  # KV:20
     "98125K":"Spezifische Betreuung des Versicherten außerhalb der Praxis als Krisenintervention durch den Therapiebegleiter i. R. der",  # KV:98
-    "98126":"Spezifische Einzelbetreuung des Versicherten in den Praxisräumen durch den Therapiebegleiter i. R. der IPV /PsycheAktiv ",  # KV:20
+    "98126":"Spezifische Einzelbetreuung des Versicherten in den Praxisräumen durch den Therapiebegleiter i. R. der IPV /PsycheAktiv",  # KV:20
     "98126V":"Spezifische Einzelbetreuung des Versicherten durch den Therapiebegleiter i. R. der IPV, per Video o. telefonisch /Psyche",  # KV:98
     "98127":"Gruppenarbeit mit Versicherten durch den Therapiebegleiter i. R. der IPV /PsycheAktiv Sachsen",  # KV:20
     "98128":"Telefonische Kontaktaufnahme durch den Versicherten oder Angehörige/Krisentelefonate mit dem Therapiebegleiter i. R. der",  # KV:20
@@ -14798,9 +14797,9 @@ EBM_BEZEICHNUNG = {
     "98136W":"Schulungsprogramm Typ I- INPUT-Selbstbestimmtes Leben mit Diab. u. Insulinpumpe f. Erwachsene-Wiederholungsschulung 12 U",  # KV:38
     "98137":"Verbrauchsmaterial INPUT Typ 1- Erwachsene-zur Schulung SNR 98136,98136E,98136W, einmalig",  # KV:38
     "98138":"Peritonealdialyse oder Heimhämodialyse , Feriendialyse ab dem 18. Lebensjahr 2x je Kalenderwoche",  # KV:38
-    "98138E":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 1  f. Erwachsene- Einzelschulung- , 6 UE pro Pat. einmal ",  # KV:38
+    "98138E":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 1  f. Erwachsene- Einzelschulung- , 6 UE pro Pat. einmal",  # KV:38
     "98138N":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 1 f. Erwachsene- Nachschulung- (max. 2 UE im Kalenderjahr",  # KV:38
-    "98138W":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 1  f. Erwachsene- Wiederholungsschulung- , 6 UE pro Pat. ",  # KV:38
+    "98138W":"Spectrum-Schulung (CGM) z. kontinuierlichen Glukosemessung Typ 1  f. Erwachsene- Wiederholungsschulung- , 6 UE pro Pat.",  # KV:38
     "98139":"Bosch BKK - Vertrag akutpsychotherapeutische Versorgung: Zuschlag zu den EBM GOP 35173-35179",  # KV:46
     "98140":"Zuschlag zur 98130A, 98130B oder 98134 bei Versicherten ab dem vollendeten 59. Lebensjahr bis zum vollendeten 69. Lebens",  # KV:46
     "98141":"Bosch BKK - Vertrag akutpsychotherapeutische Versorgung: Kooperationszuschlag gemäß Anlage 5",  # KV:46
@@ -14921,7 +14920,7 @@ EBM_BEZEICHNUNG = {
     "98300":"Einschreibepauschale /Diabetisches Fußsyndrom Sachsen",  # KV:73
     "98301":"Hausarzt-Risikobewertungspauschale /Diabetisches Fußsyndrom Sachsen",  # KV:20
     "98302":"Vereinbarung 'Trauma first': Behandlungspauschale für Kinder ab dem vollendeten 2. Lebensjahr bis zum vollendeten 16. Le",  # KV:88
-    "98303":"Vereinbarung 'Trauma first': Behandlungspauschale für Jugendliche ab dem vollendeten 16. Lebensjahr bis zum vollendeten ",  # KV:88
+    "98303":"Vereinbarung 'Trauma first': Behandlungspauschale für Jugendliche ab dem vollendeten 16. Lebensjahr bis zum vollendeten",  # KV:88
     "98304":"Vereinbarung 'Trauma first': Behandlungspauschale bei genehmigter Verlängerung für Jugendliche vom vollendeten 2. Lj. bi",  # KV:88
     "98305":"Managementpauschale Versorgungsebene II ( Schlafapnoe) IV- Vertrag",  # KV:73
     "98310":"Risikosicherungspauschale /Diabetisches Fußsyndrom Sachsen",  # KV:73
@@ -14946,7 +14945,7 @@ EBM_BEZEICHNUNG = {
     "98331":"Kennzeichnung Sensibilitätsprüfung: auffällig /Diabetisches Fußsyndrom Sachsen",  # KV:98
     "98332":"Kennzeichnung früheres DFS /Diabetisches Fußsyndrom Sachsen",  # KV:98
     "98333":"Kennzeichnung (Wund-)Infektion /Diabetisches Fußsyndrom Sachsen",  # KV:98
-    "98340":"Kennzeichnung Ergebnis der Risikobewertung: erhöhtes Risiko für ein DFS bzw. bestehende Fußläsion gegeben /Diabetisches ",  # KV:98
+    "98340":"Kennzeichnung Ergebnis der Risikobewertung: erhöhtes Risiko für ein DFS bzw. bestehende Fußläsion gegeben /Diabetisches",  # KV:98
     "98341":"Kennzeichnung Ergebnis der Risikobewertung: kein erhöhtes Risiko für ein DFS bzw. kein bestehendes DFS gegeben /Diabetis",  # KV:98
     "98360D":"Pauschale Diagnostik Kinder- und Jugend-Endokrinologie/-Diabetologie /Vertrag KinderEndo PLUS",  # KV:98
     "98360T":"Pauschale Therapie Kinder- und Jugend-Endokrinologie/-Diabetologie /Vertrag KinderEndo PLUS",  # KV:98
@@ -14962,7 +14961,7 @@ EBM_BEZEICHNUNG = {
     "98405E":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: E5 Der Krankheitsverlauf ist charakterisiert durch eine fehle",  # KV:20
     "98406B":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: B6 Der Krankheitsverlauf ist charakterisiert durch wiederholt",  # KV:20
     "98406E":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: E6 Der Krankheitsverlauf ist charakterisiert durch wiederholt",  # KV:20
-    "98407B":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: B7 Es liegt ein schwerer Krankheitsverlauf vor, dokumentiert ",  # KV:20
+    "98407B":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: B7 Es liegt ein schwerer Krankheitsverlauf vor, dokumentiert",  # KV:20
     "98407E":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: E7 Aufgrund der Erkrankung sind erhebliche negative Folgen fü",  # KV:20
     "98408B":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: B8 Es besteht ein erhebliches Gefährdungspotential (Selbst- o",  # KV:20
     "98408E":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: E8 Die Kriterien für eine drohende bzw. bereits vorliegende s",  # KV:20
@@ -14976,8 +14975,8 @@ EBM_BEZEICHNUNG = {
     "98412E":"Psychiatrische Institusambulanzen, Schwere der Erkrankung: E12 Bei einer geplanten Entlassung aus stationärer Behandlung",  # KV:20
     "98413C":"Psychiatrische Institusambulanzen, Dauer der Erkrankung: C1 Die Erkrankung besteht gegenwärtig seit mindestens sechs Mon",  # KV:20
     "98413F":"Psychiatrische Institusambulanzen, Dauer der Erkrankung: F1 Die Erkrankung besteht gegenwärtig seit mindestens sechs Mon",  # KV:20
-    "98414C":"Psychiatrische Institusambulanzen, Dauer der Erkrankung: C2 Bei rezidivierenden Erkrankungen ist mindestens ein Rezidiv ",  # KV:20
-    "98414F":"Psychiatrische Institusambulanzen, Dauer der Erkrankung: F2 Bei rezidivierenden Erkrankungen ist mindestens ein Rezidiv ",  # KV:20
+    "98414C":"Psychiatrische Institusambulanzen, Dauer der Erkrankung: C2 Bei rezidivierenden Erkrankungen ist mindestens ein Rezidiv",  # KV:20
+    "98414F":"Psychiatrische Institusambulanzen, Dauer der Erkrankung: F2 Bei rezidivierenden Erkrankungen ist mindestens ein Rezidiv",  # KV:20
     "98415":"Psychiatrische Institusambulanzen, Besuch von Patienten, die von psychiatrische Institusambulanzen in Alten- und Pflegeh",  # KV:20
     "98460":"PRIMA Quartalspauschale",  # KV:52
     "98461":"PRIMA Einbindung PFP in Arztkonsultation",  # KV:52
@@ -14996,7 +14995,7 @@ EBM_BEZEICHNUNG = {
     "98504":"Substitution von Plasmafaktoren bei Faktormangelkrankheiten",  # KV:46
     "98505":"IVP-Vereinbarung:Durchführung des MediCheck Expert, unter der Voraussetzung das der Patient im Betrachtungsquartal minde",  # KV:46
     "98506":"Orale und parenterale Chemotherapie bei Tumorpatienten einschl. der für diese Indikationen zugelassenen Hormonanaloga, Z",  # KV:46
-    "98507":"Therapie des Morbus Gaucher mit Alglucerase/Imiglucerase, des Morbus Fabry mit Agalsidase alpha/beta, des Morbus Hurler ",  # KV:46
+    "98507":"Therapie des Morbus Gaucher mit Alglucerase/Imiglucerase, des Morbus Fabry mit Agalsidase alpha/beta, des Morbus Hurler",  # KV:46
     "98508":"Hormonelle Behandlung und in-vitro-Fertilisation bei Sterilität",  # KV:46
     "98509":"Interferon, Natalizumab oder Mitoxantrontherapie bei schubförmig verlaufender Multipler Sklerose bzw. sekundär progredie",  # KV:46
     "98510":"IVP-Vereinbarung: Hausbesuch durch den teilnehmenden Hausarzt bzw. seine nichtärztliche Praxisassistentin",  # KV:46
@@ -15073,11 +15072,11 @@ EBM_BEZEICHNUNG = {
     "98666R":"Eporatio je 1.000 i. E.",  # KV:52
     "98680":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Identifizierung eines Patienten mit depressiven bz",  # KV:51
     "98681":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Pauschale für den erhöhten Beratungs- und Betreuun",  # KV:51
-    "98682":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98681 für die Koordination ",  # KV:51
-    "98682V":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98681 für die Koordination ",  # KV:51
+    "98682":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98681 für die Koordination",  # KV:51
+    "98682V":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98681 für die Koordination",  # KV:51
     "98683":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Pauschale für den erhöhten Beratungs- und Betreuun",  # KV:51
-    "98684":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98683 für die Koordination ",  # KV:51
-    "98684V":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98683 für die Koordination ",  # KV:51
+    "98684":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98683 für die Koordination",  # KV:51
+    "98684V":"Vertrag Erkennung/Betreuung bei depressiver Erkrankung, BKK LV-Mitte: Zuschlag zur Pauschale 98683 für die Koordination",  # KV:51
     "98690":"Multiple Sklerose (BKK): Eingangsuntersuchung/Jahreskonsultation",  # KV:51
     "98691":"Multiple Sklerose (BKK): Quartalskonsultation",  # KV:51
     "98692":"Multiple Sklerose (BKK): Überleitungspauschale",  # KV:51
@@ -15094,7 +15093,7 @@ EBM_BEZEICHNUNG = {
     "98702":"HZV -  Zuschlag je eingeschriebenen Versicherten und Quartal bei nachgewiesener angestellter nichtärztlicher Praxisassis",  # KV:52
     "98703":"Hausbesuch durch VERAH analog der Leistungsbeschreibung der EBM-GOP 03062  bei HZV-Versicherten",  # KV:52
     "98704":"Hausbesuch durch VERAH analog der Leistungsbeschreibung der EBM-GOP 03063  bei HZV-Versicherte",  # KV:52
-    "98705":"Medikationsscheck: Optimierung der Medikation bei HZV-Versicherten mit einem erhöhten Risiko von Arzneimittelneben- und ",  # KV:52
+    "98705":"Medikationsscheck: Optimierung der Medikation bei HZV-Versicherten mit einem erhöhten Risiko von Arzneimittelneben- und",  # KV:52
     "98706":"Sicherstellungspauschale Back-Up-Dienst - Rufbereitschaft ohne Abruf",  # KV:52
     "98707":"Sicherstellungspauschale Back-Up-Dienst - mit punktuellem Einsatz zur Unterstützung",  # KV:52
     "98708":"Sicherstellungspauschale Back-Up-Dienst - bei Einspringen bei Ausfall eines Arztes",  # KV:52
@@ -15457,7 +15456,7 @@ EBM_BEZEICHNUNG = {
     "99073F":"Modul 2:  Versorgungsfeld 3: Langzeitsauerstofftherapie (LOT) - Facharzt /Vertrag gem. § 140a SGB V über die frühzeitige",  # KV:98
     "99073H":"Modul 2:  Versorgungsfeld 3: Langzeitsauerstofftherapie (LOT) - Hausarzt /Vertrag gem. § 140a SGB V über die frühzeitige",  # KV:98
     "99075":"Kennzeichen eigene Patienten",  # KV:01
-    "99075A":"Früherkennung von Herzrhythmusstörungen durch den Einsatz externer Langzeit-EKG-Rekorder: - bei Indikation,  Aufklärung ",  # KV:88
+    "99075A":"Früherkennung von Herzrhythmusstörungen durch den Einsatz externer Langzeit-EKG-Rekorder: - bei Indikation,  Aufklärung",  # KV:88
     "99075B":"Früherkennung von Herzrhythmusstörungen durch den Einsatz externer Langzeit-EKG-Rekorder: Auswertungs- und Beratungsgesp",  # KV:88
     "99076":"Kennzeichen fremde Patienten",  # KV:93
     "99076A":"Früherkennung von Herzrhythmusstörungen durch den Einsatz externer Langzeit-EKG-Rekorder: Sachkostenpauschale für den Ei",  # KV:88
@@ -15472,7 +15471,7 @@ EBM_BEZEICHNUNG = {
     "99080O":"Versorgungsfeld vaskuläre Komplikationen: Versorgungsprogramm (Screening) ohne auffälligen Befund /Vertrag gem. § 140a S",  # KV:98
     "99081":"Kennzeichnung persönlicher Arzt-Patienten-Kontakt (Videosprechstunde)",  # KV:03
     "99081A":"Versorgungsfeld nephrologische Komplikationen: Versorgungsprogramm (Screening) mit auffälligem Befund /Vertrag gem. § 14",  # KV:71
-    "99081B":"Versorgungsfeld nephrologische Komplikationen: Weiterbetreuungsprogramm /Vertrag gem. § 140a SGB V über die frühzeitige ",  # KV:71
+    "99081B":"Versorgungsfeld nephrologische Komplikationen: Weiterbetreuungsprogramm /Vertrag gem. § 140a SGB V über die frühzeitige",  # KV:71
     "99081C":"Kennziffer für bestimmte ICD Kombinationen 21230, 21231, 21233",  # KV:71
     "99081D":"Kennziffer für bestimmte ICD Kombinationen 21230, 21231, 21233",  # KV:71
     "99081E":"Kennziffer für bestimmte ICD Kombinationen für 16230",  # KV:71
@@ -15498,11 +15497,11 @@ EBM_BEZEICHNUNG = {
     "99090C":"Behandlung urologischer Erkrankungen: Überprüfung des Behandlungsplans bei Patienten mit Prostatakarzinom bei active sur",  # KV:88
     "99090D":"Behandlung urologischer Erkrankungen: Überprüfung des Behandlungsplans bei Patienten mit Prostatakarzinom bei watchful w",  # KV:88
     "99090O":"Versorgungsfeld neurolog. Komplikationen (Diabet. Neuropathie): Versorgungsprogr. ohne auffälligen Befund /Vertrag Begle",  # KV:98
-    "99090S":"Versorgungsfeld neurolog. Komplikationen (Diabet. Neuropathie): Diagnosemittel zur Schweißsekretionsbestimmung /Vertrag ",  # KV:98
+    "99090S":"Versorgungsfeld neurolog. Komplikationen (Diabet. Neuropathie): Diagnosemittel zur Schweißsekretionsbestimmung /Vertrag",  # KV:98
     "99091":"Behandlung urologischer Erkrankungen: Überprüfung des Krankheitsverlaufs mittels Rebiopsie zusätzlich zur Pseudo-Nr. 990",  # KV:46
     "99091A":"Versorgungsfeld neurolog. Komplikationen (LUTS): Versorgungsprogr. mit auffälligem Befund /Vertrag Begleiterkrankungen D",  # KV:98
     "99091B":"Versorgungsfeld neurolog. Komplikationen (LUTS): Weiterbetreuungsprogramm /Vertrag Begleiterkrankungen Diabetes mellitus",  # KV:98
-    "99091O":"Versorgungsfeld neurolog. Komplikationen (LUTS): Versorgungsprogr. ohne auffälligen Befund /Vertrag Begleiterkrankungen ",  # KV:98
+    "99091O":"Versorgungsfeld neurolog. Komplikationen (LUTS): Versorgungsprogr. ohne auffälligen Befund /Vertrag Begleiterkrankungen",  # KV:98
     "99091V":"Strukturierte Patientenbegleitung durch Fachassistenz-CED oder Versorgungsassistenz CED",  # KV:52
     "99092":"Behandlung urologischer Erkrankungen: Schulung und Beratung zur Stärkung der Therapie-Compliance,1-mal je Behandlungsfal",  # KV:52
     "99092A":"Versorgungsfeld vaskuläre Komplikationen (Angiopathie): Versorgungsprogr. mit auffälligem Befund /Vertrag Begleiterkrank",  # KV:98
@@ -15516,7 +15515,7 @@ EBM_BEZEICHNUNG = {
     "99094":"Behandlung orthopädischer Erkrankungen: Versorg.von Kindern vom vollend. 9. bis zum vollend. 12. LJ, Untersuchung der Wi",  # KV:01
     "99094A":"Versorgungsfeld nephrolog. Komplikationen (Chron. Nierenerkrankung): Versorgungsprogr. mit auffälligem Befund /Vertrag B",  # KV:98
     "99094B":"Versorgungsfeld nephrolog. Komplikationen (Chron. Nierenerkrankung): Weiterbetreuungsprogramm /Vertrag Begleiterkrankung",  # KV:98
-    "99094O":"Versorgungsfeld nephrolog. Komplikationen (Chron. Nierenerkrankung): Versorgungsprogr. ohne auffälligen Befund /Vertrag ",  # KV:98
+    "99094O":"Versorgungsfeld nephrolog. Komplikationen (Chron. Nierenerkrankung): Versorgungsprogr. ohne auffälligen Befund /Vertrag",  # KV:98
     "99094S":"Versorgungsfeld nephrolog. Komplikationen (Chron. Nierenerkrankung): Mikroalbuminurie-Teststreifen /Vertrag Begleiterkra",  # KV:98
     "99095":"Sachkosten bei Amb.Katarakt-Op.",  # KV:01
     "99095A":"Behandlung orthopädischer Erkrankungen: Versorgung von Versicherten mit arzneimittelspezifischer Osteoporose-Therapie: V",  # KV:88
@@ -15547,9 +15546,9 @@ EBM_BEZEICHNUNG = {
     "99101E":"SAPV - Tagespauschale SAPV in einer Einrichtung der Kinder- und Jugendhilfe",  # KV:20
     "99101F":"SAPV - Tagespauschale SAPV - sonstiger Ort",  # KV:20
     "99101G":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 9 EBM bei TSS-Vermittlungsfall  (KTFG 1",  # KV:20
-    "99101H":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 10 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:17
-    "99101I":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 11 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:17
-    "99101J":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 13 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:17
+    "99101H":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 10 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:17
+    "99101I":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 11 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:17
+    "99101J":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 13 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:17
     "99101K":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Unterabschnitt 13.3.1 EBM bei TSS-Vermittlungsf",  # KV:20
     "99101L":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Unterabschnitt 13.3.2 EBM bei TSS-Vermittlungsf",  # KV:20
     "99101M":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Unterabschnitt 13.3.3 EBM bei TSS-Vermittlungsf",  # KV:20
@@ -15558,14 +15557,14 @@ EBM_BEZEICHNUNG = {
     "99101P":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Unterabschnitt 13.3.6 EBM bei TSS-Vermittlungsf",  # KV:20
     "99101Q":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Unterabschnitt 13.3.7 EBM bei TSS-Vermittlungsf",  # KV:20
     "99101R":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Unterabschnitt 13.3.8 EBM bei TSS-Vermittlungsf",  # KV:20
-    "99101S":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 14 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101T":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 15 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101U":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 16 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101V":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 17 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101W":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 18 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101X":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 20 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101Y":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 21 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
-    "99101Z":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 22 EBM bei TSS-Vermittlungsfall  (KTFG ",  # KV:20
+    "99101S":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 14 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101T":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 15 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101U":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 16 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101V":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 17 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101W":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 18 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101X":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 20 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101Y":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 21 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
+    "99101Z":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 22 EBM bei TSS-Vermittlungsfall  (KTFG",  # KV:20
     "99102":"Erstellung u. Versand der Folgedokument.",  # KV:01
     "99102A":"Überweisung Kategorie A (HzV Bosch BKK)",  # KV:01
     "99102B":"Überweisung Kategorie B (HzV Bosch BKK)",  # KV:01
@@ -15617,10 +15616,10 @@ EBM_BEZEICHNUNG = {
     "99105F":"SAPV - Vollständige Versorgung durch das SAPV-Team - sonstiger Ort",  # KV:20
     "99105G":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 9 EBM bei offener Sprechstunde  (KTFG 1",  # KV:20
     "99105H":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 10 EBM bei offener Sprechstunde (KTFG 2",  # KV:20
-    "99105S":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 14 EBM bei offener Sprechstunde  (KTFG ",  # KV:20
-    "99105U":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 16 EBM bei offener Sprechstunde  (KTFG ",  # KV:20
-    "99105W":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 18 EBM bei offener Sprechstunde  (KTFG ",  # KV:20
-    "99105Y":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 21 EBM bei offener Sprechstunde  (KTFG ",  # KV:20
+    "99105S":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 14 EBM bei offener Sprechstunde  (KTFG",  # KV:20
+    "99105U":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 16 EBM bei offener Sprechstunde  (KTFG",  # KV:20
+    "99105W":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 18 EBM bei offener Sprechstunde  (KTFG",  # KV:20
+    "99105Y":"TSVG (Scheinkennzeichnung der TSVG-Arztgruppe nach Nr. 1 der Präambel zu Kapitel 21 EBM bei offener Sprechstunde  (KTFG",  # KV:20
     "99106":"DMP Brustkrebs/Begleitgespräch",  # KV:02
     "99106A":"SAPV - Zuschlag Wegeaufwendungen im privaten Haushalt",  # KV:78
     "99106B":"SAPV - Zuschlag Wegeaufwendungen in einer vollstationären Pflegeeinrichtung",  # KV:78
@@ -15818,7 +15817,7 @@ EBM_BEZEICHNUNG = {
     "99129Z":"DSP - Zuschlag zur GOP 99129, Schulungsabschluss zur 7. Unterrichtseinheit",  # KV:17
     "99130":"Erstellung eines ärztlichen Zeugnisses im Rahmen der Verbeamtung von Lehrkräften sowie dem postalischen Versand /Vertrag",  # KV:02
     "99130A":"Nachschulung: Schulungsprogramm MEDIAS 2 (Gestationsdiabetes AOK PLUS)",  # KV:72
-    "99131":"Fachärztliche Untersuchung zur Übernahme in das Beamtenverhältnis auf Lebenszeit sowie postalischer Versand /Vertrag im ",  # KV:02
+    "99131":"Fachärztliche Untersuchung zur Übernahme in das Beamtenverhältnis auf Lebenszeit sowie postalischer Versand /Vertrag im",  # KV:02
     "99131A":"Nachschulung: Behandlungs- und Schulungsprogramm für Typ 2 Diabetes ohne Insulin (Gestationsdiabetes AOK PLUS)",  # KV:93
     "99132":"Behandlungs- und Schulungsprogramm für Typ 2 Diabetes mit konventioneller Insulinbehandlung (Gestationsdiabetes AOK PLUS",  # KV:02
     "99132A":"Nachschulung: Behandlungs- und Schulungsprogramm für Typ 2 Diabetes mit konventioneller Insulinbehandlung (Gestationsdia",  # KV:93
@@ -15853,7 +15852,7 @@ EBM_BEZEICHNUNG = {
     "99142":"Insulinvermeidung (in Krisensituationen) ohne Zertifizierung - Erstkontakt",  # KV:02
     "99142A":"Insulinvermeidung (in Krisensituationen) -Zertifizierung als Diabeteszentrum DDG - Erstkontakt",  # KV:72
     "99142B":"Insulinvermeidung (in Krisensituationen) -Zertifizierung als Diabetologikum DDG - Erstkontakt",  # KV:72
-    "99143":"Vertrag über die besondere Versorgung von Patienten mit malignen Erkrankungen: Versorgung von Patienten mit chronischer ",  # KV:17
+    "99143":"Vertrag über die besondere Versorgung von Patienten mit malignen Erkrankungen: Versorgung von Patienten mit chronischer",  # KV:17
     "99143A":"Insulinvermeidung (in Krisensituationen) -Zertifizierung als Diabeteszentrum DDG - Folgekontakt",  # KV:72
     "99143B":"Insulinvermeidung (in Krisensituationen) -Zertifizierung als Diabetologikum DDG - Folgekontakt",  # KV:72
     "99144":"Vertrag über die besondere Versorgung von Patienten mit malignen Erkrankungen: Nachsorge von Patienten mit chronischer l",  # KV:17
@@ -15884,7 +15883,7 @@ EBM_BEZEICHNUNG = {
     "99164":"Diabetische Fußambulanz - Koordinierungspauschale Ende (Diabetisches Fußsyndrom (DFS) AOK Plus)",  # KV:03
     "99164E":"DMP DiabTyp II Fußsyndrom Wundfall Erstkontakt - Beendigungsziffer",  # KV:72
     "99165":"Medikamentöser Schwangerschaftsabbruch /SchKG",  # KV:03
-    "99165G":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 2) - Genehmigung / Bestätigung der Weiterbehandlung durch die ",  # KV:72
+    "99165G":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 2) - Genehmigung / Bestätigung der Weiterbehandlung durch die",  # KV:72
     "99165R":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 2) - Rückführung",  # KV:72
     "99166":"Schwangerschaftsabbruch /SchKG",  # KV:17
     "99166G":"Wundfall Folgekontakt Wagner 2 (DMP Diabetes mellitus Typ 2) -  Genehmigung / Bestätigung der Weiterbehandlung durch die",  # KV:72
@@ -15896,11 +15895,11 @@ EBM_BEZEICHNUNG = {
     "99170":"Beobachtung und Betreuung nach ambulanter Durchführung des Abbruches nach Nr. 99166 durch Gynäkologen oder Anästhesisten",  # KV:03
     "99171":"Kennzeichnungsziffer bei osteoarthropatischen Auffälligkeiten (Diabetisches Fußsyndrom (DFS) AOK Plus)",  # KV:03
     "99172":"Narkose/Anästhesie, einschl. aller erforderlichen klinischen Untersuchungen des Anästhesisten und Laborleistungen /SchKG",  # KV:03
-    "99173":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 1 (Diabetisches Fußsyndrom (DFS) AOK ",  # KV:03
-    "99174":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 2 (Diabetisches Fußsyndrom (DFS) AOK ",  # KV:52
+    "99173":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 1 (Diabetisches Fußsyndrom (DFS) AOK",  # KV:03
+    "99174":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 2 (Diabetisches Fußsyndrom (DFS) AOK",  # KV:52
     "99175":"Aufwandserstattung für das Aufsuchen eines Kranken in der Praxis eines anderen Arztes /SchKG",  # KV:52
-    "99176":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 4 (Diabetisches Fußsyndrom (DFS) AOK ",  # KV:52
-    "99177":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 5 (Diabetisches Fußsyndrom (DFS) AOK ",  # KV:52
+    "99176":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 4 (Diabetisches Fußsyndrom (DFS) AOK",  # KV:52
+    "99177":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation - Stadium 5 (Diabetisches Fußsyndrom (DFS) AOK",  # KV:52
     "99178":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation -Charcot Fuß- (Diabetisches Fußsyndrom (DFS) AO",  # KV:52
     "99179":"Kennzeichnungsziffer bei auffälligem Fußstatus mit Wagner-Klassifikation -Charcot Fuß- (Diabetisches Fußsyndrom (DFS) AO",  # KV:52
     "99179X":"Ärztliche Beratung und Ausstellung der Präventionsempfehlung 'Stressmanagement' /IKK classic",  # KV:98
@@ -15936,7 +15935,7 @@ EBM_BEZEICHNUNG = {
     "99186N":"DMP KHK SPOG-Schulungsmaterial (Nachschulung)",  # KV:72
     "99187":"DMP KHK  Kardio-Fit-Schulungsmaterial",  # KV:17
     "99187N":"DMP KHK  Kardio-Fit-Schulungsmaterial (Nachschulung)",  # KV:72
-    "99188":"DMP KHK Betreuungspauschale - je wirksam eingeschriebenen Versicherten und Quartal , ohne Teilnahme am Modul chronische ",  # KV:17
+    "99188":"DMP KHK Betreuungspauschale - je wirksam eingeschriebenen Versicherten und Quartal , ohne Teilnahme am Modul chronische",  # KV:17
     "99189":"DMP KHK Betreuungspauschale",  # KV:52
     "99190":"Früherkennungsuntersuchung auf Hautkrebs",  # KV:02
     "99190Z":"Zuschlag zur Früherkennungsuntersuchung auf Hautkrebs für die Auflichtmikroskopie",  # KV:98
@@ -16023,13 +16022,13 @@ EBM_BEZEICHNUNG = {
     "99211A":"Vergütung für die präventive Untersuchung bei der AOK Bremen/Brhv. versicherte Kinder - U11",  # KV:03
     "99212":"DMP Asthma - MASA",  # KV:02
     "99212A":"Vergütung für die präventive Untersuchung bei der AOK Bremen/Brhv. versicherte Jugendliche - J 2",  # KV:03
-    "99212K":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie - ",  # KV:17
+    "99212K":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie -",  # KV:17
     "99212N":"DMP Asthma - MASA (Nachschulung)",  # KV:72
-    "99212R":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie - ",  # KV:17
+    "99212R":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie -",  # KV:17
     "99213":"DMP COPD - Schulungsprogramm.",  # KV:02
-    "99213K":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie - ",  # KV:17
+    "99213K":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie -",  # KV:17
     "99213N":"DMP COPD - Schulungsprogramm.",  # KV:72
-    "99213R":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie - ",  # KV:17
+    "99213R":"Vertrag über die ambulante kardiale Schnittbilddiagnostik mit der Magnetresonanztomografie und der Computertomografie -",  # KV:17
     "99214":"DMP COPD - Schulungsprogramm Bad Reichenhaller Modell",  # KV:02
     "99214N":"DMP COPD - Nachschulung Erwachsene  Bad Reichenhaller Modell",  # KV:72
     "99215":"Erfolgszuschlag bei  Abschluss der letzten Unterrichtseinheit des jeweiligen Schulungsprogramms zur SNR 99209, 99213 und",  # KV:02
@@ -16164,8 +16163,8 @@ EBM_BEZEICHNUNG = {
     "99281":"Weitere Sequenzen nach Kontrastmitteleinbringung",  # KV:03
     "99281R":"Konsiliarkomplex ab 60. Lebensjahr i.Z.m. Vereinbarung 'Mamma-MRT'",  # KV:03
     "99282":"Zuschlag für die Messung der myokardialen fraktionellen Flussreserve",  # KV:03
-    "99283":"Strukturpauschale 'S3C-1' für die aktive Nutzung der S3C-Module AM/IMM, BQ (Qualitätsmanagement: S3C und eArztbrief AOK ",  # KV:03
-    "99284":"Strukturpauschale 'S3C-2' für die aktive Nutzung der S3C-Module AM/IMM, BQ (Qualitätsmanagement: S3C und eArztbrief AOK ",  # KV:93
+    "99283":"Strukturpauschale 'S3C-1' für die aktive Nutzung der S3C-Module AM/IMM, BQ (Qualitätsmanagement: S3C und eArztbrief AOK",  # KV:03
+    "99284":"Strukturpauschale 'S3C-2' für die aktive Nutzung der S3C-Module AM/IMM, BQ (Qualitätsmanagement: S3C und eArztbrief AOK",  # KV:93
     "99285":"HZV Audi - Früherkennungsuntersuchung für Kinder im Alter von 7 bis 8 Jahren",  # KV:17
     "99286":"Bestimmung des CRP quantitativ mittels PoC (Versorgungsmodul Schnelltest PLUS AOK PLUS)",  # KV:17
     "99287":"HZV Audi - Früherkennungsuntersuchung für Kinder im Alter von 16 bis 17 Jahren",  # KV:17
@@ -16557,7 +16556,7 @@ EBM_BEZEICHNUNG = {
     "99419A":"Mitbehandlungspauschale (DMP Asthma bronchiale und COPD)",  # KV:17
     "99419C":"Mitbehandlungspauschale (DMP Asthma bronchiale und COPD)",  # KV:93
     "99419Z":"Zuschlag - PRIMAS",  # KV:17
-    "99420":"Qualitätsmanagement in der Asthmaschulung von Kindern und Jugendlichen der AG Asthmaschulung im Kinder- und Jugendalter ",  # KV:17
+    "99420":"Qualitätsmanagement in der Asthmaschulung von Kindern und Jugendlichen der AG Asthmaschulung im Kinder- und Jugendalter",  # KV:17
     "99420V":"DMP KHK - Nachschulung für Typ2 Diabetiker, die nicht Insulin spritzen - Video",  # KV:78
     "99421":"Nachschulung von Kindern und Jugendlichen der AG Asthmaschulung (DMP Asthma bronchiale und COPD)",  # KV:17
     "99421V":"DMP KHK - Nachschulung für Typ2 Diabetiker, die Insulin spritzen - Video",  # KV:78
@@ -16795,19 +16794,19 @@ EBM_BEZEICHNUNG = {
     "99570C":"Früherkennungsuntersuchung auf Demenz mit positivem Befund. Erläuterung der Erkrankung und der Therapie gemäß Anlage 3.1",  # KV:01
     "99570D":"Früherkennungsuntersuchung auf Arthrose des Hüft- oder Kniegelenks entsprechend der Vertragsanlage 3.2 mit negativem Bef",  # KV:01
     "99570E":"Früherkennungsuntersuchung auf Arthrose des Hüft- oder Kniegelenks entsprechend der Vertragsanlage 3.2 mit positivem Bef",  # KV:01
-    "99570F":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.2 (IV.). ",  # KV:01
+    "99570F":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.2 (IV.).",  # KV:01
     "99570G":"Früherkennungsuntersuchung auf Eisenmangel bei vorliegender Herzinsuffizienz entsprechend der Vertragsanlage 3.3 mit neg",  # KV:01
     "99570H":"Früherkennungsuntersuchung auf Eisenmangel bei vorliegender Herzinsuffizienz entsprechend der Vertragsanlage 3.3 mit pos",  # KV:01
-    "99570I":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.3 (IV.). ",  # KV:01
+    "99570I":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.3 (IV.).",  # KV:01
     "99570J":"Früherkennungsuntersuchung auf respiratorische Insuffizienz bei vorliegender COPD entsprechend der Vertragsanlage 3.4 mi",  # KV:01
     "99570K":"Früherkennungsuntersuchung auf respiratorische Insuffizienz bei vorliegender COPD entsprechend der Vertragsanlage 3.4 mi",  # KV:01
-    "99570L":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.4 (IV.). ",  # KV:01
+    "99570L":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.4 (IV.).",  # KV:01
     "99570M":"Früherkennungsuntersuchung auf eine periphere Arterielle Verschlusskrankheit entsprechend der Vertragsanlage 3.5 mit neg",  # KV:01
     "99570N":"Schulungprogramm Typ-2-Diabetiker, die kein Insulin spritzen Nachschulung (DMP Diabetes mellitus)",  # KV:01
-    "99570O":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.5 (IV.). ",  # KV:01
+    "99570O":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.5 (IV.).",  # KV:01
     "99570P":"Früherkennungsuntersuchung auf COPD bei vorliegendem Asthma entsprechend der Vertragsanlage 3.6 mit negativem Befund.",  # KV:01
     "99570Q":"Früherkennungsuntersuchung auf COPD bei vorliegendem Asthma entsprechend der Vertragsanlage 3.6 mit positivem Befund.  E",  # KV:01
-    "99570R":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.6 (IV.). ",  # KV:01
+    "99570R":"Verlaufskontrolle in Form eines Arzt-Patienten-Gesprächs nach Feststellung des aktuellen Status gemäß Anlage 3.6 (IV.).",  # KV:01
     "99570S":"Früherkennungsuntersuchung Chronischer Schmerz mit negativem Befund.",  # KV:01
     "99570T":"Früherkennungsuntersuchung Chronischer Schmerz mit positivem Befund.",  # KV:01
     "99570U":"Verlaufskontrolle Chronischer Schmerz",  # KV:01
@@ -16853,7 +16852,7 @@ EBM_BEZEICHNUNG = {
     "99584N":"LINDA Schulungsmaterial Nachschulung (DMP Diabetes mellitus)",  # KV:93
     "99585":"PRIMAS Schulungs- und Behandlungsprogramm für Menschen mit TYP 1-Diabetes und einer Insulintherapie (DMP Diabetes mellit",  # KV:52
     "99585N":"PRIMAS Schulungs- und Behandlungsprogramm für Menschen mit TYP 1-Diabetes und einer Insulintherapie Nachschulung (DMP Di",  # KV:93
-    "99586":"HyPOS strukturiertes Schulungs- und Behandlungsprogramm für insulinpflichtige Diabetiker mit Hypoglykämieproblemen (DMP ",  # KV:52
+    "99586":"HyPOS strukturiertes Schulungs- und Behandlungsprogramm für insulinpflichtige Diabetiker mit Hypoglykämieproblemen (DMP",  # KV:52
     "99586N":"HyPOS strukturiertes Schulungs- und Behandlungsprogramm für insulinpflichtige Diabetiker mit Hypoglykämieproblemen Nachs",  # KV:93
     "99587":"Kontrastuntersuchung der Speiseröhre",  # KV:52
     "99588":"MEDIAS 2 ICT intensivierte Insulintherapie Diabetikerschulung (DMP Diabetes mellitus Typ 2)",  # KV:52
@@ -16917,7 +16916,7 @@ EBM_BEZEICHNUNG = {
     "99622E":"Sachkosten Medikament Eylea 8 mg",  # KV:38
     "99623":"Strukturiertes Therapie- und Schulungsprogramm für Hypertoniepatienten (Diabetikerschulung (IKK, außerhalb DMP))",  # KV:03
     "99623E":"Sachkosten Wirkstoff Aflibercept - Eylea 8 mg ausgeeinzelt",  # KV:38
-    "99623N":"Strukturiertes Therapie- und Schulungsprogramm für Hypertoniepatienten Nachschulung (Diabetikerschulung (IKK, außerhalb ",  # KV:93
+    "99623N":"Strukturiertes Therapie- und Schulungsprogramm für Hypertoniepatienten Nachschulung (Diabetikerschulung (IKK, außerhalb",  # KV:93
     "99624":"Kenn-Nr. für GOP 08622 inkl. Buchstaben",  # KV:71
     "99624A":"Förderung für die Behandlung von Kindern mit einer krankhaften Störung des binokularen Sehens, Zuschlag zur GOP 06320 bi",  # KV:98
     "99624B":"Förderung für die Behandlung von Kindern mit einer krankhaften Störung des binokularen Sehens, Zuschlag zur GOP 06321 ab",  # KV:98
@@ -16970,7 +16969,7 @@ EBM_BEZEICHNUNG = {
     "99660":"Kenn.-Nr. für GOP 37714 (Prüfung Zusatzbezeichnung Intensivmedizin)",  # KV:03
     "99661":"Screeningprogramm ohne auffälligen Untersuchungsbefund",  # KV:03
     "99662":"Screeningprogramm mit auffälligen Untersuchungsbefund",  # KV:03
-    "99663":"Förderung MUBE: Zuschlag zur GOP 06330, 06333, 06336, 06337, 06338, 06339, 99319, 99349 in Behandlungsfällen ohne A-P-K ",  # KV:03
+    "99663":"Förderung MUBE: Zuschlag zur GOP 06330, 06333, 06336, 06337, 06338, 06339, 99319, 99349 in Behandlungsfällen ohne A-P-K",  # KV:03
     "99670":"Kenn.-Nr. für GOP 37720 (Prüfung Zusatzbezeichnung Intensivmedizin)",  # KV:03
     "99671":"Dialyse - PHV Zuschläge: NeoRecormon je 1000 I.E.",  # KV:03
     "99672":"Dialyse - PHV Zuschläge: Aranesp je 5 µg",  # KV:03
@@ -17229,7 +17228,7 @@ EBM_BEZEICHNUNG = {
     "99783":"Schulungsmaterial ZI Schulungmaterial zu 31.(99773),33.(99768), 35",  # KV:01
     "99783A":"Intrathekale Analgesie",  # KV:93
     "99784A":"Chronische immun-(idiopathische) thrombozytopenische Purpura",  # KV:01
-    "99784B":"Brustkrebs-DMP,Erstellung der Folgedokumentation sowie Versand(einschl. Porto) an die Datenstelle durch den betreuenden ",  # KV:01
+    "99784B":"Brustkrebs-DMP,Erstellung der Folgedokumentation sowie Versand(einschl. Porto) an die Datenstelle durch den betreuenden",  # KV:01
     "99784C":"Brustkrebs-DMP, Ausführliche,symptomorientierte Beratung durch den betreuenden DMP-Arzt, ca.15 Min.,einmal im Dokumentat",  # KV:01
     "99784D":"Brustkrebs-DMP,Gespräch zur weiterführenden Therapieplanung vor der stationären Behandlung,ca 30 Min.,einmal im Krankhei",  # KV:01
     "99784E":"Brustkrebs-DMP,Gespräch zur weiterführenden Therapieplanung nach der stationären Behandlung ca. 30 Min.,einmal im Krankh",  # KV:01
@@ -17289,7 +17288,7 @@ StruPi-RA",  # KV:01
     "99792E":"MEDIAS 2 -BOT+SIT+CT (für Typ-2_Diabetiker und einer nicht-intensivierten Insulintherapie) 6 UE x 90 Minuten",  # KV:01
     "99792F":"Schulungsmaterial zu 27.",  # KV:01
     "99792I":"HZV: Besondere Betreuung v. Pat. mit chronischer Herzinsuffizienz durch VERAH. Schulungseinheit (Anlage 3) von mindesten",  # KV:88
-    "99792P":"HZV: Besondere Betreuung von Pat. mit chron. Herinsuffizienz durch VERAH: Schulung in der Praxis für Patienten und ggf. ",  # KV:88
+    "99792P":"HZV: Besondere Betreuung von Pat. mit chron. Herinsuffizienz durch VERAH: Schulung in der Praxis für Patienten und ggf.",  # KV:88
     "99793":"Impfung gegen Herpes zoster (für alle Heilfürsorgeberechtigten über 50 Jahre) als Satzungsleistung",  # KV:88
     "99793A":"Therapie der essentiellen Thrombozythämie",  # KV:93
     "99793I":"HZV: Besondere Betreuung v. Pat. mit chronischer Herzinsuffizienz durch VERAH - Beratungsgespräch",  # KV:88
@@ -17324,7 +17323,7 @@ StruPi-RA",  # KV:01
     "99798K":"DMP COPD COBRA Nachschulung für Erwachsene frühestens 12 Monate nach Ende der Schulung ( im Regelfall 1 -3 UE a 45 Minut",  # KV:01
     "99798M":"Beratungs- und Motivationspauschale zur Tabakentwöhnung",  # KV:01
     "99798Q":"DMP COPD COBRA-Schulungsmaterial",  # KV:01
-    "99799":"HZV:  Besuch zur Einschätzung von Pflegemaßnahmen, Dokumentation der grundpflegerischen Tätigkeiten, Auswertung mit dem ",  # KV:88
+    "99799":"HZV:  Besuch zur Einschätzung von Pflegemaßnahmen, Dokumentation der grundpflegerischen Tätigkeiten, Auswertung mit dem",  # KV:88
     "99799A":"Thromboseprophylaxe nach elektiver TEP und Prophylaxe bei nichtvalvulärem Vorhofflimmern",  # KV:93
     "99800":"Ärztliche Beratung zu Schutzimpfungen auf Grund von Auslandsreisen",  # KV:03
     "99800A":"Therapie der Clostridium-difficile-assoziierten Diarrhoe",  # KV:93
@@ -17428,7 +17427,7 @@ StruPi-RA",  # KV:01
     "99814A":"Duchenne Muskeldystrophie",  # KV:93
     "99814S":"Schulungsmaterial für die Spezialschulungen für Patientinnen mit Gestationsdiabetes ohne Insulin (Therapie mit Ernährung",  # KV:88
     "99815":"Arzneimitteltherapie der fortgeschrittenen und terminalen Niereninsuffizienz, exkl. GOP 99715A",  # KV:17
-    "99815S":"Schulungsmaterial für die Spezialschulungen für Patientinnen mit Gestationsdiabetes mit Insulin (Therapie mit Insulin), ",  # KV:88
+    "99815S":"Schulungsmaterial für die Spezialschulungen für Patientinnen mit Gestationsdiabetes mit Insulin (Therapie mit Insulin),",  # KV:88
     "99816":"LINDA Diabetes-Selbstmanagementschulung, je Unterrichtseinheit (max. 5 UE)",  # KV:17
     "99816S":"Schulungsmaterial für LINDA Diabetes-Selbstmanagementschulung, einmalig je Versicherten",  # KV:88
     "99817":"Ferien-/Gastdialyse - Hämofiltration Erwachsene",  # KV:78
@@ -17436,14 +17435,14 @@ StruPi-RA",  # KV:01
     "99819":"DMP Diabetes Typ II: Information, Beratung., Einschreibung, Erstell. Erstdokumentation bzw.Strukturierte Behandlung ents",  # KV:78
     "99820":"Endoluminale Therapie bei Varizen - elektronische Einschreibung ins AOK-Portal, Information der Versicherten und gesamte",  # KV:03
     "99820A":"DMP Diabetes Typ II: Diabetes und Verhalten, Schulungsprogramm für Menschen mit Typ-2-Diabetes, die Insulin spritzen",  # KV:88
-    "99820B":"DMP Diabetes Typ II: Behandlungs- und Schulungsprogramm für Typ 2 Diabetiker, die Normalinsulin spritzen (je Teilnehmer ",  # KV:88
+    "99820B":"DMP Diabetes Typ II: Behandlungs- und Schulungsprogramm für Typ 2 Diabetiker, die Normalinsulin spritzen (je Teilnehmer",  # KV:88
     "99820C":"DMP Diabetes Typ II: Schulungsprogramm für Typ 2 Diabetiker die Insulin spritzen (je Teilnehmer 5 Unterrichtseinheiten)",  # KV:88
     "99820D":"DMP Diabetes Typ II: Therapie u. Schulungsprogramm Diabetiker Typ 2 ohne Insulin (je Teilnehmer 4 Unterrichtseinheiten)",  # KV:88
     "99820E":"DMP Diabetes Typ II: MEDIAS 2 Schulung ohne Insulin (je Teilnehmer 12 Unterrichtseinheiten)",  # KV:88
     "99820F":"DMP Diabetes Typ II: DiSko-Schulung als Ergänzung zu einem Schulungsprogramm für Typ 2 Diabetiker",  # KV:88
     "99820G":"DMP Diabetes Typ II: SPOG Schulungs- und Behandlungsprogramm für Patienten mit oraler Gerinnungshemmung (4 Unterrichtsei",  # KV:88
     "99820K":"DMP Diabetes Typ II: Behandlungs- und Schulungsprogramm für intensivierte Insulintherapie bzw. DTTP (12 Unterrichtseinhe",  # KV:88
-    "99820L":"DMP Diabetes Typ II: Modulare Bluthochdruck-Schulung IPM, (2 bis 10 Unterrichtseinheiten, die möglichst innerhalb von 8 ",  # KV:88
+    "99820L":"DMP Diabetes Typ II: Modulare Bluthochdruck-Schulung IPM, (2 bis 10 Unterrichtseinheiten, die möglichst innerhalb von 8",  # KV:88
     "99820M":"DMP Diabetes Typ II: LINDA Diabetes-Selbstmanagementschulung (10 Unterrichtseinheiten [Module 1 bis 5] für bis zu 10 Pat",  # KV:88
     "99820Q":"DMP Diabetes mellitus Typ II: Qualitätsmanagement in der Asthmaschulung von Kindern und Jugendlichen der AG Asthmaschulu",  # KV:88
     "99820R":"DMP Diabetes mellitus Typ II: NASA - Nationales ambulantes Schulungsprogramm für erwachsene Asthmatiker und AFAS: die am",  # KV:88
@@ -17481,7 +17480,7 @@ StruPi-RA",  # KV:01
     "99828":"DMP Diabetes Typ II: Betreuungspauschale für nicht dokumentierte Quartale im Rahmen der halbjährlichen Dokumentation",  # KV:17
     "99829":"Zentrumsdialyse - intermittierende Peritonealdialyse Kinder",  # KV:17
     "99830":"Heimdialyse - CAPD-Konnekt Kinder",  # KV:03
-    "99830A":"DMP Diabetes Typ II: Strukturierte Schulung für geriatrische Diabetiker; 7 Unterrichtseinheiten á 44 Minuten, innerhalb ",  # KV:88
+    "99830A":"DMP Diabetes Typ II: Strukturierte Schulung für geriatrische Diabetiker; 7 Unterrichtseinheiten á 44 Minuten, innerhalb",  # KV:88
     "99830B":"DMP Diabetes Typ II: MEDIAS 2 ICT (Mehr Diabetes Selbstmanagement für Typ 2 Diabetiker mit intensivierter Insulintherapi",  # KV:88
     "99830D":"DMP Diabetes mellitus Typ 2: ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung der Eltern, Asthma-Kl",  # KV:88
     "99830E":"DMP Diabetes mellitus Typ 2: ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung der Eltern, Asthma-Kl",  # KV:88
@@ -17561,7 +17560,7 @@ StruPi-RA",  # KV:01
     "99860A":"DMP KHK: Strukturierte Schulung für geriatrische Diabetiker; 7 Unterrichtseinheiten á 44 Minuten, innerhalb von 8 Wochen",  # KV:88
     "99860B":"DMP KHK: MEDIAS 2 ICT (Mehr Diabetes Selbstmanagement für Typ 2 Diabetiker mit intensivierter Insulintherapie); 12 Unter",  # KV:88
     "99860C":"DMP KHK: PRIMAS Schulungs- und Behandlungsprogramm für Menschen mit Typ 1 Diabetes und einer Insulintherapie mit mehrmal",  # KV:88
-    "99860D":"DMP KHK: ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung der Eltern, Asthma-Kleinkindschulung, 1. ",  # KV:88
+    "99860D":"DMP KHK: ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung der Eltern, Asthma-Kleinkindschulung, 1.",  # KV:88
     "99860E":"DMP KHK:: ASEV-Schulung - Asthmaschulung von Vorschulkindern unter Einbeziehung der Eltern, Asthma-Kleinkindschulung, 13",  # KV:88
     "99860F":"DMP KHK: Kardio-Fit; 3 Unterrichtseinheiten je 90 Minuten für 4 bis 6 Patienten mit einem Hypertonus, innerhalb von 6 Wo",  # KV:88
     "99860G":"DMP Koronare Heerzkrankheit (KHK): Patientenschulung Osteoporose der orthopädischem Gesellschaft für Osteologie, 5 Unter",  # KV:88
@@ -17727,7 +17726,7 @@ StruPi-RA",  # KV:01
     "99918":"Fallzuordnung",  # KV:03
     "99918A":"Fallzuordnung Arztfall",  # KV:73
     "99918N":"Nachschulung SGS -Strukturiertes Geriatrisches Schulungsprogramm für Typ-2-Diabetiker im höheren Lebensalter (mit Insuli",  # KV:03
-    "99918Q":"Qualitätspauschale SGS -Strukturiertes Geriatrisches Schulungsprogramm für Typ-2-Diabetiker im höheren Lebensalter (mit ",  # KV:03
+    "99918Q":"Qualitätspauschale SGS -Strukturiertes Geriatrisches Schulungsprogramm für Typ-2-Diabetiker im höheren Lebensalter (mit",  # KV:03
     "99920":"Sachkostenpauschale suprapubischer Katheter",  # KV:03
     "99920A":"Fallzuordnung Arztfall",  # KV:73
     "99920D":"DSP Modul Diabetes - Erstuntersuchung auf diabetische Neuropathie ohne Befund",  # KV:17
@@ -17874,7 +17873,7 @@ StruPi-RA",  # KV:01
     "99964":"Wundfall Erstkontakt Wagner 1-3 (DMP Diabetes mellitus Typ 1)",  # KV:52
     "99964E":"DMP Diab Typ I Fußsyndrom Wundbehandlung Erstkontakt - Beendigungsziffer",  # KV:72
     "99965":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 1)",  # KV:03
-    "99965G":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 1) -  Genehmigung/ Bestätigung der Weiterbehandlung durch die ",  # KV:72
+    "99965G":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 1) -  Genehmigung/ Bestätigung der Weiterbehandlung durch die",  # KV:72
     "99965R":"Wundfall Folgekontakt Wagner 1 (DMP Diabetes mellitus Typ 1) - Rückführung",  # KV:72
     "99966":"Wundfall Folgekontakt Wagner 2 (DMP Diabetes mellitus Typ 1)",  # KV:03
     "99966G":"Wundfall Folgekontakt Wagner 2 (DMP Diabetes mellitus Typ 1) - Genehmigung/ Bestätigung der Weiterbehandlung durch die D",  # KV:72
@@ -17937,7 +17936,7 @@ StruPi-RA",  # KV:01
     "99990A":"Fallzuordnung Arztfall",  # KV:72
     "99990M":"SPV-Mitarbeiter-Patienten-Kontakt",  # KV:98
     "99990N":"LINDA-Schulung (Diabetes mellitus Typ 2) - Nachschulung",  # KV:72
-    "99990T":"Dokumentation der telefonischen Erreichbarkeit im Zusammenhang mit dem Kooperationsvertrag nach §119b SGB V (Kapitel 37 ",  # KV:72
+    "99990T":"Dokumentation der telefonischen Erreichbarkeit im Zusammenhang mit dem Kooperationsvertrag nach §119b SGB V (Kapitel 37",  # KV:72
     "99990Z":"Hilfs-GOP zur Kennzeichn. v. Narkosen bei vertragszahnärztl. Behandlung von Patienten mit mangelnder Kooperationsfähigke",  # KV:98
     "99991":"Fallzuordnung",  # KV:03
     "99991A":"Fallzuordnung Arztfall",  # KV:73

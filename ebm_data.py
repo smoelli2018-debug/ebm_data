@@ -1,5 +1,5 @@
 # ebm_data.py – EBM Bezeichnungen und Punktzahlen
-# Generiert: 26.04.2026 09:25
+# Generiert: 27.04.2026 12:37
 # Quelle: KBV EHD XML (https://www.kbv.de/html/online-ebm.php)
 
 EBM_BEZEICHNUNG = {
